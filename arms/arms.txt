@@ -1,0 +1,251 @@
+pectoralis major:-----------------------
+origin:clavicular part-medial half of the clavicle; sternocostal part-sternum, upper six costal cartilages, aponeurosis of external olique
+insertion:lateral lip of intertubercuular (bicipital) groove of the humerus
+action:both parts adduct, medially rotate arm; clavicular part flexes arm from full extension; sternocostal part extends the flexed arm
+nerve:medial and lateral pectoral nerves (c5-c8, t1)
+
+pectoralis minor:------------------------------
+origin:external surfaces if the third, fourth and fifth ribs
+insertion:coracoid process of the scapula
+action:draws scapula forward and downard, raises ribs in forced inspiration
+nerve:medial pectoral nerve (c8,t1)
+relationships:deep to pectoralis major
+
+subclavius:---------------------------------
+origin:junction of the first rib with it's costal cartilage
+insertion:groove on the inferior (lower) suurface of the clavice
+action:depresses clavicle, draws shoulder forward and downward, streadis clavicle duringg movements of shoulder girdle
+nerve:c5,c6
+
+coracobrachialis:------------------------
+origin:tip (apex) if the ciracoid process of scapula
+insertion:middle third of the medial surface and border of the humerus
+action:weakly adducts arm (flexion unsubstantieted), aids in stabilizing humerus
+nerve:musculocutaneous nerve (c6,c7)
+realationships: deep to short head of biceps
+
+biceps branchii:----------------------------
+origin:long head-supraglenoid tubercle of scapula; short head-coracoid process of scapula
+insertion:tuberosity of radius, bicipital aponeurosis into deep fascia on medial part of forearm
+action:supinates forearm, flexes forearm, weakly flexes arm at shoulder
+nerve:musculocutaneous nerve (c5-c6)
+releationships:long head passes throough intertubercular (bicipital) groove, then inside glenohumeral joint capsule
+
+brachialis:---------------------
+origin:anterior of lower hlaf of humerus
+insertion: corronoid process of ulna, tuberosity of ulna
+action:flexes forearm
+nerve:musculocutaneous nerve(c5,c6)
+relationshi[s:deep to biveps branchii
+
+trapezius:---------------------------
+origin:medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae, spinous processes and supraspinous ligaments of seventh cervical and all thoracic vertebrae
+insertion:upper part-lateral third of clavicle; middle part-actomion and crest of spine of scapula; lower part-medial portion of crest of spine of scapula (tubercle)
+action:upper part elevates scapula, middle part retracts (adducts) scapula, lower part depresses scapula, upper and lower parts together rotate scapula (important in elevating arm)
+nerve:accessory (eleventh cranial), c3,c4
+relationships: most superficial muscle of back
+
+latissimus dorsi:-------------------------
+origin:spinous processes of the lower six thoracic vertebrae, lumbar vertebrae, sacral vertebrae, supraspinal ligament, and posterior part of the iliac crest through the lumbar (thoracplumbar) fascia, lower three or four ribs, inferior angle of the scapula
+insertion:bottom of intertubercular (bicipital groove
+action:extends, adducts, and medially rotates the arm, draws the shoulder downward and backward, keeps inferior angle of scapula against the chest wall, accessory muscle of respiration
+nerve:thoracodorsal nerve(c6-c8)
+
+levator scapulae:---------------------
+origin:posterior tubercles of the transverse processes of the first four cervical vertebrae
+insertion:vertebral (medial) border of the scapula at and above the spine
+action:elevates medial border of scapula, rotates scapula to lower rthe lateral angle, acts with trapezius and rhomboids to pull scapula mediially and upward, bends neck laterally
+nerve:dorsal scapular nerve
+
+rhomboid major:-------------------------
+origin: spines of the second to fifth thoracic vertebrae, supraspinous ligament
+insertion:medial border of the scapula below the spine
+action:retracts and stabilizes scapula, elevates the medial vorder of the scapula causing downward rotation, assists in adduction of arm
+nerve: dorsal scapular nerve (c5)
+
+rhomboid minor:----------------------
+origin:spines of the seventh cervical and first thoracic vertebrae, lower part of the ligamentum nucahe
+insertion:medial border of the scapula at the root of the spine
+action:retracts and stabilizes scapula, elevates the medial border of the scapula, rotates the scapula to depress the lateral angle (assists in adduction of arm)
+nerve:dorsal scapular nerve (c5)
+
+deltoid:----------------------
+origin:anterior position-anterior border and superior surface of the lateral third of the clavicle; middle portion-lateral border of the acromion process; posterior portion-extends and laterally rotates arm
+insertion:deltoid tuberosity, on the middle of the lateral surface of the shaft of the humerus 
+action:anterior portion-flexes and medially rotates arm; middle portion-abducts arm; pposterior portion-extends and laterally rotates arm
+nerve:axillary nerve (c5,c6)
+
+supraspinatus:------------------------
+origin:supraspinous fossa of scapula
+insertion:upper part of the greater tuberosity of the humerus, capsule of the shoulder joint
+action:aids deltoid in avduction of arm; draws humerus toward glenoid fossa, preventing deltoid from forcing huumerus up against acromion; weakly flexes arm
+nerve:suprascapular nerve(c5)
+
+infraspinatus:--------------------
+origin:infraspinous fossa of the scapula
+insertion:middle facet of the greater tuberosity of the humerus, capsule of the shoulder joint
+action:draws humerus toward glenoid fossa, thus resisting posterior dislocation of arm, as in crawling; laterall rotates; abducts arm
+nerve:suprascapular nerve (c5,c6)
+
+teres minor:-----------------------
+origin:upper two-thirds of the dorsal surface of the axillary border of the scapula
+insertion:the capsule of the shoulder joint, the lower facet of the greater tuberosity of the humerus
+action:laterally rotates arm, weakly adducts arm, draws humerus toward glednoid fossa
+nerve:axillaty nerve (c5)
+
+subscapularis:---------------------
+origin:subscapular fossa on the anterior surface of scapula
+insertion:lesset tuberosity (tubercle) of the humerus, ventral part of the capsule of the shoulder joint
+action:medially rotates arm, stabilizes glednohumeral joint
+nerve:upper and lower subscapular nerves (c5,c6)
+
+teres major:------------------------
+origin:lower third of the posterior surface of the lateral border of the scapulla, near the inferior angle
+insertion:medial lip of the intertubercular (bicipital groove of the humerus
+action:medially rotates arm, adducts arm, extends arm
+nerve:lower subscapular nerve (c5,c6)
+
+triceps brachii:----------------------
+origin:long head-inferaglenoid tubercle of the scapula; lateral head-upper half of the lower half of the shaft of the humerus
+insertion:posterior part of olecranon process of the ulna
+action:extends forearm, long ghead aids in adduction of arm is abducted
+nerve:radial nerve (c7,c8)
+(note:the radial nerve comes from the axilla and passes along the humerus between the medial and lateral heads. because it can be compressed agains the humerus, it is the most commonly injured peripheral nerve)
+
+anconeus:----------------------------
+origin:posterior part of lateral epicondyle of the humerus
+insertion:lateral surface of the olecranon process and posterior surface of ulna
+action:extends forearm (assists triceps)
+nerve:radial nerve(c7-c8)
+
+
+
+
+
+
+
+
+
+
+
+
+pronator teres:---------------------
+origin:humeral head-medial supracondylar ridge and medial epicondyle of the humeruus; ulnar head-medial border of the coronoid process of the ulna
+insertion:middle of lateral surface of the radius (pronator tuberosity)
+action:pronates and flexes forearm
+nerve:median nerve(c6,c7)
+
+flexor carpi radialis:----------------------
+origin:medial epicondyle of the humerus through the common tendon
+insertion:front of the bases of the second and third metacarpal bones
+action:flexes hand, synergist in abduction with extensor carpi radialis longus and brevis
+nerve:median nerve(c6,c7)
+
+palmaris longus:--------------------
+origin: mediial epicondyle of the humerus through the common tendon
+insertion:front (central part) of the flexor retinaculum and apex of the palmer aponeursis
+action:flexes the hand
+nerve:median nerve(c6,c7)
+
+flexor carpi ulnaris:----------------------
+origin: humeral head-medial epicondyle of the humerus through the common tendon; ulnar head-medial margin of olecranon process of ulna, dorsal border of shaft of the ulna
+insertion:pisiform bone, hood of the hamate, and base of the fifth metacarpal bone
+action:flexes hand, synergist in adduction of hand with extensor carpi ulnaris
+nerve:ulnar nerve(c8,t1)
+
+flexor digitorum superficialis:----------------------------
+origin: humeroulnar head-medial epicondyle of the humerus through common tendon, medial margin of the coronoid process of ulna; radial head- anterior surface of shaft od radius
+insertion:four tendons divide into two slips each., slips insert into the sides (margins of the anterior surfaces) of the middle phalanges of four fingers
+actions:flexes the middle phalanges of the fingers
+nerve:median nerve(c7,c8,t1)
+relationships:deep to superficial flexors
+
+flexor digitorum profundus:---------------------------
+origin:upper three-fourths of anteriror and medial surfaces of shaft of ulna and medial side of the coronoid process, interosseous membrane
+insertion:front of base of distal phalanges of fingers 
+actions:flexes distal phalanges
+nerve:ulnar nerve supplies the medial half of the muscle(going to the little and ring fingers)(c8,t1)
+relationships:deep to flexor digitorum superficialis
+
+flexor pollicis longus:--------------------------
+origin:middle of anterior surface of shaft of radius, interosseous membrane, medial epicondyle of humerus, and often coronoid process of ulna
+insertion:palmar aspect of base of the distal phalanx of thumb
+action:flexes the thumb
+nerve:anterior interosseous branch of median nerve (c8,t1)
+
+brachioradialis:-----------------------
+origin:upper two-thirds of lateral upracondylar ridge of humerus
+insertion:base styloid process and lateral surface od radius
+action:flexes forearm
+nerve:radian nerve (c5,c6)
+
+extensor carpi radialis longus:---------------------
+origin:lower third of lateral supracondylar ridge of humerus
+insertion:dorsal surface of the base of the second metacarpal bone
+action:extends hand, synergist in abduction of hand with flexor carpi radialis
+nerve:radial nerve(c6,c7)
+
+extensor carpi radialis brevis:----------------------
+origin:lateral epicondyle of humerus
+insertion:dorsal surface of third metacarpal bone
+action:extends hand, synergist in abduction of hand with flexor carpi radialis
+nerve:radial nerve(c6,c7)
+
+extensor digitorum communis:---------------------------
+origin:common tendon attached to lateral epicondyle of humerus
+insertion:lateral and dorsal surfaces of all the phalanges of the four fingers
+action:extends the fingers and wrist
+nerve:deep branch of radial nerve(c6-c8)
+relationships:tends to hyperextend the metacarpophalangeal joint causing "claw hand"; it's action is balanced by the lumbricales and interossei
+
+extensor digiti minimi:-----------------------
+origin:common tendon attached to lateral epicondyle of humerus
+intersection:dorsal surface of base of first phalanx of fifth finger
+action:extends fifth finger
+nerve:radial nerve(c6-c8)
+
+extensor carpi ulnaris:------------------
+origin:common tendon attached to lateral epicondyle of humerus
+insertion:dorsal surface of base of fifth meracarpal bone
+action:extends hand, synergist in adduction of hand with flexor carpi ulnaris
+nerve:radial nerve (c6-c8)
+
+supinator:--------------------
+origin:lateral epicondyle of humerus, lateral ligament (radial collateral) of elbow, annular ligament of superior radioulnar joint, supinator crest of ulna
+insertion:dorsal and lateral surfaces of upper third of radius
+action:supinates forearm
+nerve:radial nerve (c6)
+
+abductor pollicis longus:--------------------------
+origin:posterior (dorsal) surface of shaft of radius, ulna, interosseous membrane
+insertion: dorsal surface of base of first metacarpal bone
+action:abducts, laterally rotates, and extends thumb; abducts wrist
+nerve:radial nerve(c6,c7)
+
+extensor pollicis brevis:------------------------
+origin:dorsal surface of radius, adjacent part of interosseous membrane
+insertion:base of proximal phalanx of thumb
+action:extends thumb, abducts hand
+nerve:radial nerve(c6,c7)
+
+extensor pollicis longus:------------------------
+origin:middle third of dorsal surface of ulna, interosseous membrane
+insertion:base of distal phalanx of thumb
+action:extends thumb
+nerve:radial nerve: (c6-c8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

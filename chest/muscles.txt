@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chest</title>
+</head>
+<body>
+  <div class="main">
+    <div class="navbar">
+      <ul>
+        <li><a href="../abdominal_muscles/abdominal_muscles.html" style="float:left; border-right: 2px solid white;">Abdominal Muscles</a></li>
+        <li><a href="../arms/arms.html" style="float:left; border-right: 2px solid white;">Arms</a></li>
+        <li><a href="../back/back.html" style="float:left; border-right: 2px solid white;">Back</a></li>
+        <li><a href="#" style="float:left; border-right: 2px solid white;" class="active">Chest</a></li>
+        <li><a href="../legs/legs.html" style="float:left; border-right: 2px solid white;">Legs</a></li>
+        <li><a href="#clinical_chest" style="float:right; border-left: 2px solid white;">Clinical relevance for the Chest</a></li>
+        <li><a href="#exercises_chest" style="float:right; border-left: 2px solid white;">Exercises for the chest</a></li>
+      </ul>
+    </div>
+    <div class="grid-container1">
+        <br>
+        <div class="item2"><img src="../images/3d scolpture/usable/chest.png" style="background: transparent;">
+      </div>
+    </div>
+    <div class="grid-container2">
+          <br id="exercises_chest"><br><br>          
+          <div class="section_title">Exercises for the chest</div>
+        <div class="item3">
+        <table>
+          <tr >
+            <td class="first">
+              <img src="../exercises/chest exercises/band resisted flye.png"><br><span class="title">Band resisted flye</span><h1 class="description">Best for: Chest, Deltoid and Biceps</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/barbell bench press.png"><br><span class="title">Barbell bench press</span><h1 class="description">Best for: Chest and Biceps</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/cable crossover.png"><br><span class="title">Cable crossover</span><h1 class="description">Best for: Chest, Deltoid, Biceps and Rhomboids</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="first">
+              <img src="../exercises/chest exercises/chest press machine.png"><br><span class="title">Cable crossover</span> <h1 class="description">Best for: Pectoralis Minor and Deltoid</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/dips.png"><br><span class="title">Dips</span><h1 class="description">Best for: Chest, Tricpes, Biceps, Latissimus Dorsi, SCM and Deltoid</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/dumbbell bench press.png"><br><span class="title">Dumbbell bench press</span><h1 class="description">Best for: Chest and Anterior Deltoid</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="first">
+              <img src="../exercises/chest exercises/dumbbell flyes.png"><br><span class="title">Dumbbell flyes</span><h1 class="description">Best for: Chest, Anterior Deltoid, Biceps and Forearm Flexors</h1> 
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/Kettlebell Swings.png"><br><span class="title">Kettlebell Swings</span><h1 class="description">Best for: Chest, Triceps, upper and lower Back, Glutes and Hamstrings</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/landmine standing reach.png"><br><span class="title">Landmine standing reach</span><h1 class="description">Best for: Chest, Trapezius, Deltoids,  Legs, Obliques and Rectus Abdominis</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="first">
+              <img src="../exercises/chest exercises/pec deck.png"><br><span class="title">Pec deck</span><h1 class="description">Best for: Chest, Trapezius, Biceps and Oblique</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/pullover.png"><br><span class="title">Pullover</span><h1 class="description">Best for: Chest, Serratus anterior, Latissimus dorsi and Triceps</h1>
+            </td>
+            <td class="first">
+              <img src="../exercises/chest exercises/pushups.png"><br><span class="title">Pushups</span><h1 class="description">Best for: Chest, Triceps, Biceps and Shoulders</h1><br>
+              <span class="preferences"></span>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3" class="special">
+              <div class="plan">
+                <table>
+                  <tr>
+                    <td>
+                      Hypertrophy:<br>
+                    </td>
+                    <td>6 - 12
+                      <br>Repetitions
+                    </td>
+                    <td>3 - 5
+                      <br>Sets
+                    </td>
+                    <td>Light - Moderate
+                      <br>Weight
+                    </td>
+                    <td>30 - 90 Seconds
+                      <br>Rest
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Strenght:<br>
+                    </td>
+                    <td>6 Repetitions
+                    </td>
+                    <td>2 - 6
+                      <br>Sets
+                    </td>
+                    <td>Moderate - Heavy
+                      <br>Weight
+                    </td>
+                    <td>2 - 3 Minutes Rest
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Resistence:<br>
+                    </td>
+                    <td>1 - 3 Repetitions
+                    </td>
+                    <td>3 - 5
+                      <br>Sets
+                    </td>
+                    <td>Moderate Weight
+                    </td>
+                    <td>1 - 3 Minutes Rest
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Endurence:<br>
+                    </td>
+                    <td>12+ Repetitions
+                    </td>
+                    <td>2 - 3
+                      <br>Sets
+                    </td>
+                    <td>Heavy - Moderate
+                      <br>Weight
+                    </td>
+                    <td>30  Seconds Rest
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="border-radius: 0px 0px 0px 30px;">
+                      Power:<br>
+                    </td>
+                    <td>1 - 5 Repetitions
+                    </td>
+                    <td>2 - 3
+                      <br>Sets
+                    </td>
+                    <td>Light - Heavy Weight
+                    </td>
+                    <td style="border-radius: 0px 0px 30px 0px;" >
+                      2 - 3 Minutes Rest
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+        </table>  
+        </div>
+    </div><br id="clinical_chest"><br><br>
+    <div class="section_title">Clinical relevance for each muscle connected to the chest</div>
+    <div class="grid-container3">
+        <div class="item4 all">
+          <div class="image_muscle">
+            <img src="images/coracobrachialis.png">
+            <div class="under"><span class="under_name">Coracobrachialis</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: tip (apex) if the ciracoid process of scapula</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: middle third of the medial surface and border of the humerus</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: weakly adducts arm (flexion unsubstantieted), aids in stabilizing humerus</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: musculocutaneous nerve (C6,C7)</span>
+          </div>
+        </div>
+
+        <div class="item5 all">
+          <div class="image_muscle">
+            <img src="images/deltoid.png">
+            <div class="under"><span class="under_name">Deltoid</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text" style="font-size: 1em;"><i><b>Origin</b></i>: anterior position-anterior border and superior surface of the lateral third of the clavicle; middle portion-lateral border of the acromion process; posterior portion-extends and laterally rotates arm</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: deltoid tuberosity, on the middle of the lateral surface of the shaft of the humerus</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: anterior portion-flexes and medially rotates arm; middle portion-abducts arm; pposterior portion-extends and laterally rotates arm</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: axillary nerve (C5,C6)</span>
+          </div>
+        </div>
+        
+        <div class="item6 all">
+          <div class="image_muscle">
+            <img src="images/intercostales_externi.png">
+            <div class="under"><span class="under_name">Intercostales Externi</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: lower margin of upper eleven ribs</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: superior border of rib below(each muscle fiber runs obliquely and inserts toword the costal cartilage)</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: draw ventral part of ribs upward, increasing the volume of the thoracic cavity for inspiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: intercostal nerves</span>
+          </div>
+        </div>
+          
+        <div class="item7 all">
+          <div class="image_muscle">
+            <img src="images/intercostales_interni.png">
+            <div class="under"><span class="under_name">Intercostales Interni</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: from the cartilages to the angles of hte upper elebem ribs</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: superior border of the rib below (each muscle fiber runs obliquely and inserts away from the costal cartilage)</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: draw ventral part of ribs downward, decreasing the volume of the thoracic cavity for expiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: intercostal nerves</span>
+          </div>
+        </div>
+           
+        <div class="item8 all">
+          <div class="image_muscle">
+            <img src="images/pectoralis_major.png">
+            <div class="under"><span class="under_name">Pectoralis major</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: clavicular part-medial half of the clavicle; sternocostal part-sternum, upper six costal cartilages, aponeurosis of external olique</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: lateral lip of intertubercuular (bicipital) groove of the humerus</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: both parts adduct, medially rotate arm; clavicular part flexes arm from full extension; sternocostal part extends the flexed arm</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: medial and lateral pectoral nerves (C5-C8, T1)</span>
+          </div>
+        </div>
+           
+        <div class="item9 all">
+          <div class="image_muscle">
+            <img src="images/pectoralis_minor.png">
+            <div class="under"><span class="under_name">Pectoralis minor</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: external surfaces if the third, fourth and fifth ribs</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: coracoid process of the scapula</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: draws scapula forward and downard, raises ribs in forced inspiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: medial pectoral nerve (C8,T1)</span>
+          </div>
+        </div>
+           
+        <div class="item10 all">
+          <div class="image_muscle">
+            <img src="images/platysma.png">
+            <div class="under"><span class="under_name">Platysma</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: substaneous fascia of upper one-fourth of chest just below the clavicle</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: substaneous fascia and muscles of chin and jaw, mandible</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: depresses and draws lower lip laterally, draws up skin of chest, depresses mandible</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: cervical brawnch of facial nerve</span>
+          </div>
+        </div>
+           
+        <div class="item11 all">
+          <div class="image_muscle">
+            <img src="images/serratus_posterior_superior.png">
+            <div class="under"><span class="under_name">Serratus Posterior Superior</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: ligamentum nuchae, spinous processes of seventh cervical and first few thoracic vertebrae</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: upper borders of the second through fifth tibs lateral to their angles</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: raises  ribs in inspiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: T1-T4</span>
+          </div>
+        </div>
+           
+        <div class="item12 all">
+          <div class="image_muscle">
+            <img src="images/sternocleidomastoid.png">
+            <div class="under"><span class="under_name">Sternocleidomastoid</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: sternal head-manubrium of sternum<br>
+            clavicular head-meidal part of clavicle</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: mastoid process of temporal bone, lateral half of superior nuchal line of occipital bone</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: one side-bends neck laterally, rotates head to opposite side<br>both sides together-flexes neck, draws head ventrally and elevates chin, draws sternum superiorly in deep inspiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: spinal part of accessory nerve (C2, C3)</span>
+          </div>
+        </div>
+
+        <div class="item13 all">
+          <div class="image_muscle">
+            <img src="images/subclavius.png">
+            <div class="under"><span class="under_name">Subclavious</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: junction of the first rib with it's costal cartilage</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: groove on the inferior (lower) suurface of the clavice</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: depresses clavicle, draws shoulder forward and downward, streadis clavicle duringg movements of shoulder girdle</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: c5,c6</span>
+          </div>
+        </div>
+
+        <div class="item14 all">
+          <div class="image_muscle">
+            <img src="images/subscapularis.png">
+            <div class="under"><span class="under_name">Subscapularis</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: subscapular fossa on the anterior surface of scapula</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: lesset tuberosity (tubercle) of the humerus, ventral part of the capsule of the shoulder joint</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text"><i><b>Action</b></i>: medially rotates arm, stabilizes glednohumeral joint</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: upper and lower subscapular nerves (C5,C6)</span>
+          </div>
+        </div>
+
+        <div class="item15 all">
+          <div class="image_muscle">
+            <img src="images/transversus_thoracis.png">
+            <div class="under"><span class="under_name">Transversus Thoracis</span></div>
+          </div>
+          <div class="origin">
+            <span class="intelegent_text"><i><b>Origin</b></i>: inner surface of lower portion of sternum and adjacent costal cartilages</span>
+          </div>
+          <hr>
+          <div class="insertion">
+            <span class="intelegent_text"><i><b>Insertion</b></i>: inner surfaces of costal cartilages of the second through sixth ribs</span>
+          </div>
+          <hr>
+          <div class="action">
+            <span class="intelegent_text">draws venrtal part of ribs downward, decreasing the volume of the thoracic cavity for forceful expiration</span>
+          </div>
+          <hr>
+          <div class="nerve">
+            <span class="intelegent_text"><i><b>Nerve</b></i>: intercostal nerves</span>
+          </div>
+        </div>
+    </div>
+  </div> 
+    <footer>
+      <table>
+        <tr class="footer_tr">
+          <td>
+            <span class="credit"><b>Credit:</b> <br>Atlas of Skeletal Muscles Fifth Edition - Robert & Judith Stone<br><a href="https://strengthlevel.com/" target="_blank" >www.strengthlevel.com<img src="../images/new_tab.png" style="width: 13px;"></a></span>
+          </td>
+          <td class="credit">
+            <span class="credit" style="font-family: monospace;">Version: 1.0</span>
+          </td>
+          <td class="credit">
+            erter
+          </td>
+        </tr>
+      </table>
+    </footer>
+</body>
+<div id="backBtn" onclick="location.href='../index_main.html';" title="back"><img src="../images/backbtn.png"></div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script src="js/function.js"></script>
+</html>

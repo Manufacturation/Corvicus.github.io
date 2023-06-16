@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+        text-align: center;
+}
+        
+header h1 {
+    font-size: 48px;
+    margin: 0;
+}
+header p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+        
+section {
+    padding: 40px;
+    text-align: center;
+}
+         
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+    
+li {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+li:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+    
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+}
+
+footer p {
+    font-size: 14px;
+    margin: 0;
+}
+
+@media screen and (max-width: 1000px){
+    footer p{
+        font-size: 8px;        
+    }
+}
+
+
+.abdominal{
+    height: 200px;
+    width: 200px;
+background-image: url('../images/abdominal_muscles_blur.png');
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.arms{
+    height: 200px;
+    width: 200px;
+background-image: url('../images/arms_blur.png');
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.back{
+    height:200px;
+    width: 200px;
+background-image: url('../images/back_blur.png');
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.chest{
+    height: 200px;
+    width: 200px;
+background-image: url('../images/chest_blur.png');
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.legs{
+    height: 200px;
+    width: 200px;
+background-image: url('../images/legs_blur.png');
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+h3{
+    width: auto;
+ background-color: rgba(0, 0, 0, .7);
+ color: white;
+ padding: 5px;
+ vertical-align: middle;
+ margin-top: auto;
+ margin-bottom: auto;
+ border: 2px solid white;
+}

@@ -1,0 +1,131 @@
+<tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/barbell_curl.png"><br><span class="title">Barbell curls</span><h1 class="description">Best for: Biceps, Shoulder, and Forearm muscles</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/cable_curl.png"><br><span class="title">Cable curls</span><h1 class="description">Best for: Biceps and Wrist muscles</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/chin-ups.png"><br><span class="title">Chin-ups</span><h1 class="description">Best for: Latissimus dorsi, Erector spinae, Biceps, Deltoid and Wrist muscles</h1>
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/Concentration_Curl.png"><br><span class="title">Concentration curls</span> <h1 class="description">Best for: Biceps, Triceps and Wrist</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/dumbbell_curl.png"><br><span class="title">Dumbbell curls</span><h1 class="description">Best for: Biceps and Wrist</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/ez-bar_curl.png"><br><span class="title">Ez-bar curls</span><h1 class="description">Best for: Biceps, Wrist, Forearm and Eractor spinae</h1>
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/inverted_row.png"><br><span class="title">Inverted row</span><h1 class="description">Best for: Latissimus dorsi, Trapezius, Rhomboids, Deltoid, Biceps and Erector spinae</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/pullups.png"><br><span class="title">Pullups</span><h1 class="description">Best for: Latissimus dorsi, Erector spinae, Biceps, Deltoid, Wrist and Forearm</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/reverse_curl_straight_bar.png"><br><span class="title">Reverse curl straight bar</span><h1 class="description">Best for: Wrist, Biceps, Triceps and Forearm</h1>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td class="first">
+                <img src="../exercises/arms exercises/Seated_Cable_Row.png"><br><span class="title">Seated cable row</span> <h1 class="description">Best for: Latissimus dorsi, upper Back, Biceps, Triceps, and Chest</h1>
+              </td>
+            </tr>
+            <br>
+          </table>
+          <br><br>
+        <div class="section_title" id="triceps">Exercises for the Triceps</div>
+          <table>
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/bench-dips.png"><br><span class="title">Bench dips</span><h1 class="description">Best for: Chest, Latissimus dorsi, Triceps, Deltoid and Erector Spinae</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/dumbbell_triceps_extension.png"><br><span class="title">Dumbbell triceps extension</span><h1 class="description">Best for: Triceps, Biceps, Wrist and Forearp</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/pushups.png"><br><span class="title">Pushups</span><h1 class="description">Best for: Triceps, Trapezius and Wrist</h1>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/reverse_grip_triceps_pushdowns.png"><br><span class="title">Reverse grip triceps pushdowns</span><h1 class="description">Best for: Triceps and Forearm</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/skull_crusher.png"><br><span class="title">Skull crusher</span><h1 class="description">Best for: Triceps and Wrist</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/triceps_rope_pushdown.png"><br><span class="title">Triceps rope pushdown</span><h1 class="description">Best for: Triceps and Wrist</h1>
+              </td>
+            </tr>
+            <br id="shoulders">
+          </table>
+          <br><br>
+        <div class="section_title">Exercises for the Shoulders</div>
+          <table>
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/arnold_press.png"><br><span class="title">Arnold press</span><h1 class="description">Best for: Posterior, lateral and anterior Deltoid</h1> 
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/dumbbell_front_raises.png"><br><span class="title">Dumbbell font taises</span><h1 class="description">Best for: Deltoids, Chest and Forearms</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/dumbbell_lateral_raises.png"><br><span class="title">Dumbbell lateral raises</span><h1 class="description">Best for: Latissimus dorsi, Shoulders and forearms</h1>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/kettlebell_swing.png"><br><span class="title">Kettlebell swing</span><h1 class="description">Best for: upper and lower Back, Glutes, Hamstrings, Shoulders and Wrist</h1> 
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/overhead_press.png"><br><span class="title">Overhead press</span><h1 class="description">Best for: Shoulders, Latissimus dorsi, Abdominal oblique and Whole arms</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/pushups.png"><br><span class="title">Pushups</span><h1 class="description">Best for: Chest, Deltoids, Erector Spinae and whole Arms</h1>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/reverse_cable_crossover.png"><br><span class="title">Reverse cable crossover</span><h1 class="description">Best for: lower and upper Back, wrist Triceps and Biceps</h1> 
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/reverse_fly.png"><br><span class="title">Reverse fly</span><h1 class="description">Best for: Trapesius, Latissimus dorsi, Triceps, Forearm and posterior Deltoid</h1>
+              </td>
+            </tr>
+          </table>
+          <br><br>
+        <div class="section_title">Exercises for the Wrist and Forearm</div>
+          <table>
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/Dead_hangs.png"><br><span class="title">Dead hang</span><h1 class="description">Best for: whole Body, specifically the Arms</h1> 
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/Dumbbell_Reverse_Curl.png"><br><span class="title">Dumbbell reverse curl</span><h1 class="description">Best for: Biceps, Forearm and wrist</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/Dumbbell_Wrist_Flexion.png"><br><span class="title">Dumbbell wrist flexion</span><h1 class="description">Best for: Forearms and Wrist</h1>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="first">
+                <img src="../exercises/arms exercises/farmer's_walk.png"><br><span class="title">Farmer's walk</span><h1 class="description">Best for: whole Arms, Quadriceps and Calves</h1> 
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/Fingertip_pushups.png"><br><span class="title">Fingertip pushups</span><h1 class="description">Best for: Biceps, Chest, Triceps, Wrist and Forearm</h1>
+              </td>
+              <td class="first">
+                <img src="../exercises/arms exercises/Hammer_Curl.png"><br><span class="title">Hammer curl</span><h1 class="description">Best for: whole Arms and Eractor spinae</h1>
+              </td>
+            </tr>

@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+  <div class="main">
+    <div class="navbar">
+      <ul><!--class="active" -->
+        <li><a href="../abdominal_muscles/abdominal_muscles.html" style="float:left; border-right: 2px solid white;">Abdominal Muscles</a></li>
+        <li><a href="../arms/arms.html" style="float:left; border-right: 2px solid white;">Arms</a></li>
+        <li><a href="../back/back.html" style="float:left; border-right: 2px solid white;">Back</a></li>
+        <li><a href="../chest/chest.html" style="float:left; border-right: 2px solid white;">Chest</a></li>
+        <li><a class="active" href="../legs/legs.html" style="float:left; border-right: 2px solid white;">Legs</a></li>
+        <li><a href="#hip_muscles" style="float:right; border-left: 2px solid white;">C.R. for the Hip muscles</a></li>
+        <li><a href="#thigh_muscles" style="float:right; border-left: 2px solid white;">C.R. for the Thigh muscles</a></li>
+        <li><a href="#calve_muscles" style="float:right; border-left: 2px solid white;">C.R. for the Calve muscles</a></li>
+        <li><a href="#calves" style="float:right; border-left: 2px solid white;">Calves</a></li>
+        <li><a href="#legs" style="float:right; border-left: 2px solid white;">Legs</a></li>
+      </ul>
+    </div>
+    <div class="grid-container1">
+        <br>
+        <div class="item2"><img src="../images/3d scolpture/usable/legs.png" style="background: transparent;">
+      </div>
+    </div>
+    <div class="grid-container2" id="legs">
+          <br id="exercises_chest"><br><br>          
+          <div class="section_title">Exercises for the Legs</div>
+        <div class="item3">
+      <table>
+        <tr>
+          <td class="first">
+            <img src="../exercises/leg exercises/squat.png"><br><span class="title">Squat</span><h1 class="description">Best for: Glute muscles, Quadriceps and Hamstring</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/leg_extension.png"><br><span class="title">Leg extension</span><h1 class="description">Best for: Quadriceps, Hamstrings, Calves and Glute muscles</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/jump_squats.png"><br><span class="title">Jump squats</span><h1 class="description">Best for: Glutes, Quadriceps, Hips, and Hamstrings</h1>
+          </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../exercises/leg exercises/leg_press.png"><br><span class="title">Leg press</span><h1 class="description">Best for: Quadriceps, Glutes, Hamstrings and Calves</h1> 
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/mountain_climbing.png"><br><span class="title">Mmountain climbing</span><h1 class="description">Best for: Glutes, Hamstrings, lower Back, Abs and Erector Spinae</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/biking.png"><br><span class="title">Biking</span><h1 class="description">Best for: Glutes, Quadriceps, Hamstrings, Calves and Abs</h1>
+          </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../exercises/leg exercises/side_lunges.png"><br><span class="title">Side lunges</span> <h1 class="description">Best for: Quadriceps, Abductors, Glutes and Hamstrings</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/step-ups_with_weights.png"><br><span class="title">Step-ups with weights</span><h1 class="description">Best for: Quadriceps, Hamstrings, Glutes and Calves</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/wall_sits.png"><br><span class="title">Wall sits</span><h1 id="calves" class="description">Best for: Quadriceps, Hamstrings, Glutes, Calves and Eractor Spinae</h1>
+          </td>
+        </tr>
+      </table>
+      <br><br>
+      <table>
+        <div class="section_title">Exercises for the Calves</div>
+        <tr>
+          <td class="first">
+            <img src="../exercises/leg exercises/elevated_calf_raises.png"><br><span class="title">Elevated calf raises</span> <h1 class="description">Best for: Calves and Eractor Spinae</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/jump_rope.png"><br><span class="title">Jump rope</span><h1 class="description">Best for: Calves, Quadriceps, Hamstrings, Glutes, Abs, Arms, and chest muscles</h1>
+          </td>
+         <td class="first">
+             <img src="../exercises/leg exercises/farmer's_walk.png"><br><span class="title">Farmer's walk</span><h1 class="description">Best for: upper Back, Latissimus Dorsi, Trapezius, Arms, Glutes, Quadriceps and Hamstrings</h1><br>
+         </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../exercises/leg exercises/Farmer’s_Walk_On_Toes.png"><br><span class="title">Farmer's walk on toes</span> <h1 class="description">Best for: Latissimus Dorsi, Trapezius, Forearms, Quadriceps, Hamstrings, Glutes</h1>
+          </td>
+          <td class="first">
+            <img src="../exercises/leg exercises/dumbbell_step-up.png"><br><span class="title">Dumbbell step-up</span><h1 class="description">Best for: Hamstrings, Quadriceps, Calves, Glutes and Hip Flexors</h1>
+          </td>
+         <td class="first">
+             <img src="../exercises/leg exercises/dumbbell_jump_squat.png"><br><span class="title">Dumbbell jump squat</span><h1 class="description">Best for: Quadriceps, Hamstrings, Calves and Glutes</h1><br>
+         </td>
+        </tr>
+        <tr>
+          <td colspan="3" class="special">
+            <div class="plan">
+              <table>
+                <tr>
+                  <td>
+                    Hypertrophy:<br>
+                  </td>
+                  <td>6 - 12
+                    <br>Repetitions
+                  </td>
+                  <td>3 - 5
+                    <br>Sets
+                  </td>
+                  <td>Light - Moderate
+                    <br>Weight
+                  </td>
+                  <td>30 - 90 Seconds
+                    <br>Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Strenght:<br>
+                  </td>
+                  <td>6 Repetitions
+                  </td>
+                  <td>2 - 6
+                    <br>Sets
+                  </td>
+                  <td>Moderate - Heavy
+                    <br>Weight
+                  </td>
+                  <td>2 - 3 Minutes Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Resistence:<br>
+                  </td>
+                  <td>1 - 3 Repetitions
+                  </td>
+                  <td>3 - 5
+                    <br>Sets
+                  </td>
+                  <td>Moderate Weight
+                  </td>
+                  <td>1 - 3 Minutes Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Endurence:<br>
+                  </td>
+                  <td>12+ Repetitions
+                  </td>
+                  <td>2 - 3
+                    <br>Sets
+                  </td>
+                  <td>Heavy - Moderate
+                    <br>Weight
+                  </td>
+                  <td>30  Seconds Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td style="border-radius: 0px 0px 0px 30px;">
+                    Power:<br>
+                  </td>
+                  <td>1 - 5 Repetitions
+                  </td>
+                  <td>2 - 3
+                    <br>Sets
+                  </td>
+                  <td>Light - Heavy Weight
+                  </td>
+                  <td style="border-radius: 0px 0px 30px 0px;" id="hip_muscles">
+                    2 - 3 Minutes Rest
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div><!-- //item3 --> 
+    </div>
+    <br>
+    <br>
+    <div class="section_title">Clinical relevance for each muscle connected to the Hip muscles</div>
+    <div class="grid-container3">
+      <div class="item4 all">
+        <div class="image_muscle">
+          <img src="images/psoas_major.png">
+          <div class="under"><span class="under_name">Psaos Major</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: origin: bases of transverse processes of all lumbar vertebrae, bodies of twelfth thoracic and all lumbar vertabrae, intervertebral disks above each lumbar vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: lesser trochanter of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes thigh at hip joint, flexes vertebral column</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: branches from lumbar plexus (l2,l3) and sometimes l1 or l4</span>
+        </div>
+      </div>
+
+      <div class="item5 all">
+        <div class="image_muscle">
+          <img src="images/iliacus.png">
+          <div class="under"><span class="under_name">iliacus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: upper two-thirds of iliac fossa, ala of sacrum and adjacent ligaments, anterior inferior iliac spine</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: onto tendon of psoas major, which continues into lesser trochanter of femur (together the two muscles form the iliopsaos)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes thigh at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: femoral nerve (l2,l3)</span>
+        </div>
+      </div>
+
+      <div class="item6 all">
+        <div class="image_muscle">
+          <img src="images/Piriformis.png">
+          <div class="under"><span class="under_name">Piriformis</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: internal surfaces surface of sacrum, sacrotuberous ligament</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: upper border of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thigh at hip jointm abducts thigh</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: anterior rami of first and second sacral nerves</span>
+        </div>
+      </div>
+
+      <div class="item7 all">
+        <div class="image_muscle">
+          <img src="images/Obturator_internus.png">
+          <div class="under"><span class="under_name">Obturator internus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: pelvic surface of obturator membrane and surounding bones (ilium, ischium, pubis)</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: commong tendon with superior and inferior gemelii to medial surface of upper border of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thight at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: nerve from sacral plexus (l5, s1-s3)</span>
+        </div>
+      </div>
+
+      <div class="item8 all">
+        <div class="image_muscle">
+          <img src="images/gemellus_superior.png">
+          <div class="under"><span class="under_name">Gemellus superior</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: spine of ischium</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: with tendon of obdturator internus into medial surface of upper border of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thight at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: branch of nerve to obturator internus from sacral plexus</span>
+        </div>
+      </div>
+
+      <div class="item9 all">
+        <div class="image_muscle">
+          <img src="images/gemellus_inferior.png">
+          <div class="under"><span class="under_name">Gemellus inferior</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: upper margin of ischial tuberosity</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: with tendon of obturator internus into medial surface of upper border of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thight at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: branch of nerve to quadratus femoris from sacral plexus</span>
+        </div>
+      </div>
+
+      <div class="item10 all">
+        <div class="image_muscle">
+          <img src="images/obturator_externus.png">
+          <div class="under"><span class="under_name">Obturator externus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: outer surface of superior and inferior rami of pubis and ramus of ischium surrounding obturator foramen</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: trochanteric fossa of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thigh</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: obturator nerve (l3,l4)</span>
+        </div>
+      </div>
+
+      <div class="item11 all">
+        <div class="image_muscle">
+          <img src="images/obturator_internus.png">
+          <div class="under"><span class="under_name">Quadratus femoris</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: lateral border of ischial tuberosity</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: below interocanteric crest (quandrate line)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: laterally rotates thigh at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: branch from sacral plexus (l5,s1)</span>
+        </div>
+      </div>
+
+      <div class="item12 all">
+        <div class="image_muscle">
+          <img src="images/glutenus_maximus.png">
+          <div class="under"><span class="under_name">Gluteus maximus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: origin:outer surface of ilium behin posterior gluteal line, adjacent posterior surface of sacrum and coccyx, sacrotuberous ligament, aponeourosis of erector spinae (sacrospinalis)</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: iliotibial tract of fascia lata, gluteal tuberosity of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: upper part-abducts, laterally rotates thigh; lower part-extends, laterally rotates thigh, extends trunk, assists in adduction of thigh</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: inferior gluteal nerve (l5,s1,s2)</span>
+        </div>
+      </div>
+
+      <div class="item13 all">
+        <div class="image_muscle">
+          <img src="images/glutenus_medius.png">
+          <div class="under"><span class="under_name">Gluteus medius</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: outer surface of ilium inferior to iliac crest</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: lateral surface of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: abducts femur at hip joints and rotates thigh medially</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: superior gluteal nerve (l4,l5,s1)</span>
+        </div>
+      </div>
+
+      <div class="item14 all">
+        <div class="image_muscle">
+          <img src="images/gluteus_minimus.png">
+          <div class="under"><span class="under_name">gluteus minimus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: outer surface of ilium between middle (anterior) and inferior gluteal lines</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: anterior surface of greater trochanter</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: abducts femur at hip joints and rotates thigh medially </span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text" id="thigh_muscles"><i><b>Nerve</b></i>: superior gluteal nerve (l4,l5,s1)</span>
+        </div>
+      </div>
+    </div>
+      <br>15:00 06/06/2023
+      <br>
+      <div class="section_title">Clinical relevance for each muscle connected to the Thigh muscles</div>
+      <div class="grid-container3">
+      <div class="item15 all">
+        <div class="image_muscle">
+          <img src="images/adductor_brevis.png">
+          <div class="under"><span class="under_name">adductor brevis</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: outer surface of inferior ramus of pubis</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: from below lesser trochanter to linea aspera and into proximal part of linea aspera</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: adducts thigh, assists in flexion, medial rotation</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: obturator nerve (l3,l4)</span>
+        </div>
+      </div>
+      
+      <div class="item16 all">
+        <div class="image_muscle">
+          <img src="images/adductor_longus.png">
+          <div class="under"><span class="under_name">adductor longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: anterior of body of pubis</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: medial lip of linea aspera</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: adducts, flexes thigh, assists in medial rotation</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: obturator nerve (l3,l4)</span>
+        </div>
+      </div>
+      
+      <div class="item17 all">
+        <div class="image_muscle">
+          <img src="images/adductor_magnus.png">
+          <div class="under"><span class="under_name">adductor magnus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: inferior ramus of pubis, and ramus and lower part tuberosity of iscium</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: linea aspera, adductor tubercle of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: adducts, extends thight, lower portion (adductor tubercle insertion) assists in medial rotation</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: obturator nerve (l3,l4), sciatic nerve</span>
+        </div>
+      </div>
+      
+      <div class="item18 all">
+        <div class="image_muscle">
+          <img src="images/biceps_femoris.png">
+          <div class="under"><span class="under_name">biceps femoris</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: long head-ischial tuberosity, sacrotuberous ligament; short head-linea aspera, lateral supracondylar ridge, lateral intermuscular septum</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: lateral side of head of fibula and lateral condyle of tibia</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes leg at knee joint, long head also extends thigh at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: long head-tibial part of sciatic nerve (s1-s3); short head-common peroneal part of sciatic nerve (l5,s1,s2)</span>
+        </div>
+      </div>
+      
+      <div class="item19 all">
+        <div class="image_muscle">
+          <img src="images/gracilis.png">
+          <div class="under"><span class="under_name">gracilis</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: lower margin of body and inferior ramus of pubis</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: upper part of medial surface of shaft of tibia</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: adducts thigh at hip joint and flexes leg at knee joint, with leg flexed assists in medial rotation</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: obturator nerve (l3,l4)</span>
+        </div>
+      </div>
+      
+      <div class="item20 all">
+        <div class="image_muscle">
+          <img src="images/pectineus.png">
+          <div class="under"><span class="under_name">pectineus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: origin: pectineal line on superior ramus of pubis</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: from lesser trochanter to linea aspera of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes thigh, assists in adduction when hip is flexed</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: femoral nerve (l2-l4), (sometimes a branch of obturator nerve)</span>
+        </div>
+      </div>
+      
+      <div class="item21 all">
+        <div class="image_muscle">
+          <img src="images/sartorius.png">
+          <div class="under"><span class="under_name">sartorius</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: anterior superior iliac spine and area immediatly below it</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: insertions of sartorius, gracilis, and semitendinosus fuse of the medial tibial, these tendones called the pesanserinus (goose foor), give medial support to the knee</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes, abducts, and laterally otates thight at hip joints, flexes and slightly medially rotates leg at knee joint after flexion</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text" id="calve_muscles"><i><b>Nerve</b></i>: femoral nerve (l2,l3)</span>
+        </div>
+      </div>
+      
+      <div class="item22 all">
+        <div class="image_muscle">
+          <img src="images/semimembranosus.png">
+          <div class="under"><span class="under_name">semimembranosus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: ischial tuberosity</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: posterior part of medial candyle of tibia</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes and slightly medially rotates leg at knee joint after flexion, extends thigh at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: tibial portion of sciatic nerve (l5,s1,s2)</span>
+        </div>
+      </div>
+      
+      <div class="item23 all">
+        <div class="image_muscle">
+          <img src="images/semitendinosus.png">
+          <div class="under"><span class="under_name">semitendinosus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: ischial tuberosity</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: medial surface of shaft of tibia</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: flexes and slightly medially rotates leg at knee joint after flexion, extends thigh at hip joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: tibial portion of sciatic nerve (l5, s1, s2)</span>
+        </div>
+      </div>
+      </div>
+      <br id="calve_muscles">
+      <br>
+      <div class="section_title">Clinical relevance for each muscle connected to the Calve muscles</div>
+      <div class="grid-container3">
+      <div class="item24 all">
+        <div class="image_muscle">
+          <img src="images/gastrocnemius.png">
+          <div class="under"><span class="under_name">Gastrocnemius</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: *lateral head-lateral condyle and posterior surface of femur<br>*medial head-popliteal surface of femur above medial condyle</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: posterior surface of the calaneus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: plantar flexes foot, flexes leg at knee</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: tibial nerve (s1,s2)</span>
+        </div>
+      </div>
+      
+      <div class="item25 all">
+        <div class="image_muscle">
+          <img src="images/plantaris.png">
+          <div class="under"><span class="under_name">Plantaris</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: lateral supracondylar ridge of femur, oblique popliteal ligament</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: posterior surface of the calcaneus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: plantar flexes foot, flexes leg</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: tibial nerve (l4,l5,s1)</span>
+        </div>
+      </div>
+      
+      <div class="item26 all">
+        <div class="image_muscle">
+          <img src="images/soleus.png">
+          <div class="under"><span class="under_name">Soleus</span></div>
+        </div>
+        <div class="origin">
+          <span class="origin_text"><i><b>Origin</b></i>: posterior surface of the tibia (soleal line), upper rhird of posterior surface of fibula, fibrous arch between tibia and fibula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="insertion_text"><i><b>Insertion</b></i>: posterior surface of the calcaneus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="action_text"><i><b>Action</b></i>: plantar flexes foot</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="nerve_text"><i><b>Nerve</b></i>: tibial neve (s1,s2)</span>
+        </div>
+      </div>
+            
+
+    </div><!-- grid container3-->
+</div><!--main -->
+    <footer>
+      <table>
+        <tr class="footer_tr">
+          <td>
+            <span class="credit"><b>Credit:</b> <br>Atlas of Skeletal Muscles Fifth Edition - Robert & Judith Stone<br><a href="https://strengthlevel.com/" target="_blank" >www.strengthlevel.com<img src="../images/new_tab.png" style="width: 13px;"></a></span>
+          </td>
+          <td class="credit">
+            <span class="credit" style="font-family: monospace;">Version: 1.0</span>
+          </td>
+          <td class="credit">
+            erter
+          </td>
+        </tr>
+      </table>
+    </footer>
+</body>
+<div id="backBtn" onclick="location.href='../index_main.html';" title="back"><img src="../images/backbtn.png"></div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script src="js/function.js"></script>
+</html>

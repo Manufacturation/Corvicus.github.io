@@ -1,0 +1,39 @@
+serratus posterior inferior:
+origin:spinous processes of the lower two thoracic and the upper two or three lumbar vertebrae
+insertion:lower borders of bootom fourrr ribs
+action:pulls ribs down, resisting pull of diaphragm
+nerve:t9-t12
+
+diaphragm:
+origin:sternal part-inner part of xiphoid process; costal part-inner surfaces of lower six ribs and their cartilages; lumber part-upper two or three lumber vertebrae and lateral and medial lumbocostal arches
+insertion: fibers converge and meet on a central tendon
+action:draws central tendon inferiorly, for inspiration
+nerve:phorenic nerve (c3-c5)
+NOTE:this muscles inserts upon itself. it's action is to change the volume o  the thoracic and abdominal cavities
+
+obliquus externus abdominis:
+origin:lower eight ribs
+insertion:anterior part of iliac crest.. abdominal aponeourosis to linea alba
+action:compresses abdominal contents, laterlly flexes and rotates vertebral column
+nerve:eight to twelfth intercostal, iliohypogastric, ilioinguinal nerves
+relationships: most uperficail of the three lateral abdominal muscles (note:important in forced expiration, coughting, sneezing)
+
+obliquus internus abdominis:
+origin:lateral half of inguinal ligament, iliac crest, thoracolumbar fascia
+insertion:cartilage of bottom three or fouur ribs, abdominal aponeurosis to linea alba
+action:compresses abdominal contents, laterally flexes and rotates vertebral column
+nerve: eight to twelfth intercostal, iliohypogastric, ilioinguinal nerves
+relationships:middle layer of the three lateral abdominal muscles (note:important in forced expriration, coughing, sneazing)
+
+transversus abdominis:
+nerve:lateral part of inguninal ligament, iliac crest, thoracolumbar fascia, cartilage of lower six ribs
+insertion:abdominal aponeurosis to linea alba
+action:compresses abdomen
+nerve:seventh to twelfth intercostal, iliohypogastrical, ilioinguinal nerves
+relationships deepest of the three lateral abdominal muscles
+
+rectus abdominis:
+origin:crest of pubi, pubic symphysis
+insertion:cartilage of fifth, sixth, and seventh ribs, xiphoid  process
+actions: flexes vertebral column, compresses abdomen
+nerve: seventh throught twelfth intercostal nerves

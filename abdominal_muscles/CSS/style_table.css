@@ -1,0 +1,811 @@
+/*------------- Number  1-------------*/
+.littlenavbar1 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar1 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active1 {
+  display: block;
+}
+.littlenavbar1 a:hover {
+  background-color: #171717;
+}
+.littlenavbar1 a.active1 {
+  background-color: #00AAFF;
+}
+.content1 {
+  display: none;
+}
+
+/*------------- Number 2 -------------*/
+.littlenavbar2 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar2 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active2 {
+  display: block;
+}
+.littlenavbar2 a:hover {
+  background-color: #171717;
+}
+.littlenavbar2 a.active2 {
+  background-color: #00AAFF;
+}
+.content2 {
+  display: none;
+}
+
+/*------------- Number 3 -------------*/
+.littlenavbar3 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar3 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active3 {
+  display: block;
+}
+.littlenavbar3 a:hover {
+  background-color: #171717;
+}
+.littlenavbar3 a.active3 {
+  background-color: #00AAFF;
+}
+.content3 {
+  display: none;
+}
+
+/*------------- Number 4 -------------*/
+.littlenavbar4 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar4 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active4 {
+  display: block;
+}
+.littlenavbar4 a:hover {
+  background-color: #171717;
+}
+.littlenavbar4 a.active4 {
+  background-color: #00AAFF;
+}
+.content4 {
+  display: none;
+}
+
+/*------------- Number 5 -------------*/
+.littlenavbar5 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar5 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active5 {
+  display: block;
+}
+.littlenavbar5 a:hover {
+  background-color: #171717;
+}
+.littlenavbar5 a.active5 {
+  background-color: #00AAFF;
+}
+.content5 {
+  display: none;
+}
+
+/*------------- Number 6 -------------*/
+.littlenavbar6 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar6 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active6 {
+  display: block;
+}
+.littlenavbar6 a:hover {
+  background-color: #171717;
+}
+.littlenavbar6 a.active6 {
+  background-color: #00AAFF;
+}
+.content6 {
+  display: none;
+}
+
+/*------------- Number 7 -------------*/
+.littlenavbar7 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar7 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active7 {
+  display: block;
+}
+.littlenavbar7 a:hover {
+  background-color: #171717;
+}
+.littlenavbar7 a.active7 {
+  background-color: #00AAFF;
+}
+.content7 {
+  display: none;
+}
+
+/*------------- Number 8 -------------*/
+.littlenavbar8 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar8 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active8 {
+  display: block;
+}
+.littlenavbar8 a:hover {
+  background-color: #171717;
+}
+.littlenavbar8 a.active8 {
+  background-color: #00AAFF;
+}
+.content8 {
+  display: none;
+}
+
+/*------------- Number 9 -------------*/
+.littlenavbar9 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar9 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active9 {
+  display: block;
+}
+.littlenavbar9 a:hover {
+  background-color: #171717;
+}
+.littlenavbar9 a.active9 {
+  background-color: #00AAFF;
+}
+.content9 {
+  display: none;
+}
+
+/*------------- Number 10 -------------*/
+.littlenavbar10 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar10 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active10 {
+  display: block;
+}
+.littlenavbar10 a:hover {
+  background-color: #171717;
+}
+.littlenavbar10 a.active10 {
+  background-color: #00AAFF;
+}
+.content10 {
+  display: none;
+}
+
+/*------------- Number 11 -------------*/
+.littlenavbar1 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar11 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active11 {
+  display: block;
+}
+.littlenavbar11 a:hover {
+  background-color: #171717;
+}
+.littlenavbar11 a.active11 {
+  background-color: #00AAFF;
+}
+.content11 {
+  display: none;
+}
+
+/*------------- Number 12 -------------*/
+.littlenavbar12 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar12 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active12 {
+  display: block;
+}
+.littlenavbar12 a:hover {
+  background-color: #171717;
+}
+.littlenavbar12 a.active12 {
+  background-color: #00AAFF;
+}
+.content12 {
+  display: none;
+}
+
+/*------------- Number 13 -------------*/
+.littlenavbar13 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar13 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active13 {
+  display: block;
+}
+.littlenavbar13 a:hover {
+  background-color: #171717;
+}
+.littlenavbar13 a.active13 {
+  background-color: #00AAFF;
+}
+.content13 {
+  display: none;
+}
+
+/*------------- Number 14 -------------*/
+.littlenavbar14 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar14 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active14 {
+  display: block;
+}
+.littlenavbar14 a:hover {
+  background-color: #171717;
+}
+.littlenavbar14 a.active14 {
+  background-color: #00AAFF;
+}
+.content14 {
+  display: none;
+}
+
+/*------------- Number 15 -------------*/
+.littlenavbar15 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar15 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active15 {
+  display: block;
+}
+.littlenavbar15 a:hover {
+  background-color: #171717;
+}
+.littlenavbar15 a.active15 {
+  background-color: #00AAFF;
+}
+.content15 {
+  display: none;
+}
+
+/*------------- Number 16 -------------*/
+.littlenavbar16 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar16 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active16 {
+  display: block;
+}
+.littlenavbar16 a:hover {
+  background-color: #171717;
+}
+.littlenavbar16 a.active16 {
+  background-color: #00AAFF;
+}
+.content16 {
+  display: none;
+}
+
+/*------------- Number 17 -------------*/
+.littlenavbar17 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar17 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active17 {
+  display: block;
+}
+.littlenavbar17 a:hover {
+  background-color: #171717;
+}
+.littlenavbar17 a.active17 {
+  background-color: #00AAFF;
+}
+.content17 {
+  display: none;
+}
+
+/*------------- Number 18 -------------*/
+.littlenavbar18 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar18 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active18 {
+  display: block;
+}
+.littlenavbar18 a:hover {
+  background-color: #171717;
+}
+.littlenavbar18 a.active18 {
+  background-color: #00AAFF;
+}
+.content18 {
+  display: none;
+}
+
+/*------------- Number 19 -------------*/
+.littlenavbar19 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar19 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active19 {
+  display: block;
+}
+.littlenavbar19 a:hover {
+  background-color: #171717;
+}
+.littlenavbar19 a.active19 {
+  background-color: #00AAFF;
+}
+.content19 {
+  display: none;
+}
+
+/*------------- Number 20 -------------*/
+.littlenavbar20 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar20 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active20 {
+  display: block;
+}
+.littlenavbar02 a:hover {
+  background-color: #171717;
+}
+.littlenavbar20 a.active20 {
+  background-color: #00AAFF;
+}
+.content20 {
+  display: none;
+}
+
+/*------------- Number 21 -------------*/
+.littlenavbar21 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar21 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active21 {
+  display: block;
+}
+.littlenavbar21 a:hover {
+  background-color: #171717;
+}
+.littlenavbar21 a.active21 {
+  background-color: #00AAFF;
+}
+.content21 {
+  display: none;
+}
+
+/*------------- Number 22 -------------*/
+.littlenavbar22 {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar22 a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active22 {
+  display: block;
+}
+.littlenavbar22 a:hover {
+  background-color: #171717;
+}
+.littlenavbar22 a.active22 {
+  background-color: #00AAFF;
+}
+.content22 {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}
+
+/*------------- Number  -------------*/
+.littlenavbar {
+  background-color: #333333;
+  text-align: center;
+  width: 120px;
+}
+.littlenavbar a {
+  color: #ffffff;
+  text-align: center;
+  padding: 2px 7px;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
+  display: inline-block;
+  width: 89%;
+}
+.active {
+  display: block;
+}
+.littlenavbar a:hover {
+  background-color: #171717;
+}
+.littlenavbar a.active {
+  background-color: #00AAFF;
+}
+.content {
+  display: none;
+}

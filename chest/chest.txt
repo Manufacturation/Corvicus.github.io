@@ -1,0 +1,83 @@
+serratus anterior:---------------
+origin:outer surfaces and superior borders of first eight or nine ribs, and fascia covering first intercostal space
+insertion:anterior surface (costal surface of the medial border of the scapula)
+action:rotates scapula for avduction and flexion of arm, protracts scapula
+nerve:long thoracic nerve (c5-c7)
+relationshops:serratus anterior and rhomboids both insert on the medial border of scapula; they are antagonists causing protraction and retraction
+
+teres major:----------
+origin:lower third of the posterior surface of the lateral border of the scapulla, near the inferior angle
+insertion:medial lip of the intertubercular (bicipital groove of the humerus
+action:medially rotates arm, adducts arm, extends arm
+nerve:lower subscapular nerve (c5,c6)
+
+pectoralis major:------------
+origin:clavicular part-medial half of the clavicle; sternocostal part-sternum, upper six costal cartilages, aponeurosis of external olique
+insertion:lateral lip of intertubercuular (bicipital) groove of the humerus
+action:both parts adduct, medially rotate arm; clavicular part flexes arm from full extension; sternocostal part extends the flexed arm
+nerve:medial and lateral pectoral nerves (c5-c8, t1)
+
+coracobrachialis:---------
+origin:tip (apex) if the ciracoid process of scapula
+insertion:middle third of the medial surface and border of the humerus
+action:weakly adducts arm (flexion unsubstantieted), aids in stabilizing humerus
+nerve:musculocutaneous nerve (c6,c7)
+realationships: deep to short head of biceps
+
+subscapularis:----------
+origin:subscapular fossa on the anterior surface of scapula
+insertion:lesset tuberosity (tubercle) of the humerus, ventral part of the capsule of the shoulder joint
+action:medially rotates arm, stabilizes glednohumeral joint
+nerve:upper and lower subscapular nerves (c5,c6)
+
+pectoralis minor:------
+origin:external surfaces if the third, fourth and fifth ribs
+insertion:coracoid process of the scapula
+action:draws scapula forward and downard, raises ribs in forced inspiration
+nerve:medial pectoral nerve (c8,t1)
+relationships:deep to pectoralis major
+
+deltoid:------
+origin:anterior position-anterior border and superior surface of the lateral third of the clavicle; middle portion-lateral border of the acromion process; posterior portion-extends and laterally rotates arm
+insertion:deltoid tuberosity, on the middle of the lateral surface of the shaft of the humerus 
+action:anterior portion-flexes and medially rotates arm; middle portion-abducts arm; pposterior portion-extends and laterally rotates arm
+nerve:axillary nerve (c5,c6)
+
+subclavius:----------
+origin:junction of the first rib with it's costal cartilage
+insertion:groove on the inferior (lower) suurface of the clavice
+action:depresses clavicle, draws shoulder forward and downward, streadis clavicle duringg movements of shoulder girdle
+nerve:c5,c6
+
+sternocleidomastoid:--------------
+origin:sternal head=manubrium of sternum
+clavicular head-meidal part of clavicle
+insertion:mastoid process of temporal bone, lateral half of superior nuchal line of occipital bone
+action:one side-bends neck laterally, rotates head to opposite side
+both sides together-flexes neck, draws head ventrally and elevates chin, draws sternum superiorly in deep inspiration
+nerve: spinal part of accessory nerve (c2, c3)
+
+platysma:----------------
+origin:substaneous fascia of upper one-fourth of chest just below the clavicle
+insertion:substaneous fascia and muscles of chin and jaw, mandible
+action:depresses and draws lower lip laterally, draws up skin of chest, depresses mandible
+nerve:cervical brawnch of facial nerve
+
+intercostales externi:---------
+origin: lower margin of upper eleven ribs
+insertion:superior border of rib below(each muscle fiber runs obliquely and inserts toword the costal cartilage)
+action:draw ventral part of ribs upward, increasing the volume of the thoracic cavity for inspiration
+nerve:intercostal nerves
+
+intercostales interni:--------
+origin: from the cartilages to the angles of hte upper elebem ribs
+insertion:superior border of the rib below (each muscle fiber runs obliquely and inserts away from the costal cartilage)
+action: draw ventral part of ribs downward, decreasing the volume of the thoracic cavity for expiration
+nerve:intercostal nerves
+
+transversus thoracis:----------
+origin:inner surface of lower portion of sternum and adjacent costal cartilages
+insertion:inner surfaces of costal cartilages of the second through sixth ribs
+draws venrtal part of ribs downward, decreasing the volume of the thoracic cavity for forceful expiration
+nerve:intercostal nerves
+

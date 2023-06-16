@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+  <div class="main">
+    <div class="navbar">
+      <ul><!--class="active" -->
+        <li><a href="../abdominal_muscles/abdominal_muscles.html" style="float:left; border-right: 2px solid white;">Abdominal Muscles</a></li>
+        <li><a href="../arms/arms.html" style="float:left; border-right: 2px solid white;">Arms</a></li>
+        <li><a href="../back/back.html" class="active" style="float:left; border-right: 2px solid white;">Back</a></li>
+        <li><a href="../chest/chest.html" style="float:left; border-right: 2px solid white;">Chest</a></li>
+        <li><a href="../legs/legs.html" style="float:left; border-right: 2px solid white;">Legs</a></li>
+        <li><a href="#clinical_back" style="float:right; border-left: 2px solid white;">C.R. for the Back muscles</a></li>
+        <li><a href="#clinical_back2" style="float:right; border-left: 2px solid white;">C.R. for the group muscles in the back</a></li>
+        <li><a href="#exercises_back" style="float:right; border-left: 2px solid white;">Exercises for the Back</a></li>
+      </ul>
+    </div>
+     <div class="grid-container1">
+        <br>
+        <div class="item2"><img src="../images/3d scolpture/usable/back.png" style="background: transparent;">
+      </div>
+    </div>
+    <div class="grid-container2" id="exercises_back">
+          <br id="exercises_chest"><br><br>          
+          <div class="section_title">Exercises for the Back</div>
+        <div class="item3">
+          <table>
+            <tr>
+          <td class="first">
+            <img src="../excercises/back excercises/chest_supported_row.png"><br><span class="title">Back supported row </span><h1 class="description">Best for: Latissimus dorsi, <br>
+            Trapezius and Rhomboids</h1>
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/chin-ups.png"><br><span class="title">Chin ups </span><h1 class="description">Best for: Latissimus dorsi, <br>
+            Trapezius, Chest, Biceps and Triceps</h1>
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/deadlift.png"><br><span class="title">Deadlift</span> <h1 class="description">Best for: Whole back, Legs and Upper Arms</h1>
+          </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../excercises/back excercises/dumbbell_pullover.png"><br><span class="title">Dumbbell pullover</span><h1 class="description">Best for: Latissimus dorsi, Teres Major, Triceps, Anterior Deltoids and Chest</h1> 
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/farmer's_walk.png"><br><span class="title">Farmer's walk</span><h1 class="description">Best for: Hips and Thighs, Arms, Abdominal Oblique and Erectors</h1>
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/pulldown.png"><br><span class="title">Pulldown</span><h1 class="description">Best for: Latissimus Dorsi, deltoid, Biceps, Core and Trapezius</h1>
+          </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../excercises/back excercises/resistance_band_pull-apart.png"><br><span class="title">Resistance band pull-apart</span><h1 class="description">Best for: Shoulders, Upper Back, Rhomboids and Trapezius</h1> 
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/reverse_fly.png"><br><span class="title">Reverse fly</span><h1 class="description">Best for: Rhomboid, Shoulders and Upper back</h1>
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/seated_rows.png"><br><span class="title">Seated rows</span><h1 class="description">Best for: Upper back, Latissimus Dorsi, Biceps and Triceps</h1>
+          </td>
+        </tr>
+        <tr>
+          <td class="first">
+            <img src="../excercises/back excercises/single_arm_dumbbell_row.png"><br><span class="title">Single arm dumbbell row</span><h1 class="description">Best for: Upper and Lower Back, Shoulders, Biceps and Hips</h1> 
+          </td>
+          <td class="first">
+            <img src="../excercises/back excercises/t-bar_rows.png"><br><span class="title">T-bar rows</span><h1 class="description">Best for: Latissimus Dorsi, Rhomboids, Trapezius and Shoulders</h1>
+          </td>
+         <td class="first">
+           <img src="../excercises/back excercises/wide_dumbbell_bent-over row.png"><br><span class="title">Wide dumbbell bent-over row</span><h1 class="description">Best for: Latissimus Dorsi, the mid & lower Trapezius, Rhomboids and Deltoid</h1><br>
+         </td>
+        </tr>
+        <tr>
+          <td colspan="3" class="special">
+            <div class="plan">
+              <table>
+                <tr>
+                  <td>
+                    Hypertrophy:<br>
+                  </td>
+                  <td>6 - 12
+                    <br>Repetitions
+                  </td>
+                  <td>3 - 5
+                    <br>Sets
+                  </td>
+                  <td>Light - Moderate
+                    <br>Weight
+                  </td>
+                  <td>30 - 90 Seconds
+                    <br>Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Strenght:<br>
+                  </td>
+                  <td>6 Repetitions
+                  </td>
+                  <td>2 - 6
+                    <br>Sets
+                  </td>
+                  <td>Moderate - Heavy
+                    <br>Weight
+                  </td>
+                  <td>2 - 3 Minutes Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Resistence:<br>
+                  </td>
+                  <td>1 - 3 Repetitions
+                  </td>
+                  <td>3 - 5
+                    <br>Sets
+                  </td>
+                  <td>Moderate Weight
+                  </td>
+                  <td>1 - 3 Minutes Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Endurence:<br>
+                  </td>
+                  <td>12+ Repetitions
+                  </td>
+                  <td>2 - 3
+                    <br>Sets
+                  </td>
+                  <td>Heavy - Moderate
+                    <br>Weight
+                  </td>
+                  <td>30  Seconds Rest
+                  </td>
+                </tr>
+                <tr>
+                  <td style="border-radius: 0px 0px 0px 30px;">
+                    Power:<br>
+                  </td>
+                  <td>1 - 5 Repetitions
+                  </td>
+                  <td>2 - 3
+                    <br>Sets
+                  </td>
+                  <td>Light - Heavy Weight
+                  </td>
+                  <td style="border-radius: 0px 0px 30px 0px;" id="clinical_back">
+                    2 - 3 Minutes Rest
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div><!-- //item3 --> 
+    </div>
+    <br><br>
+    <div class="section_title">Clinical relevance for each muscle connected to the back</div>
+    <div class="grid-container3">
+      <div class="item4 all">
+        <div class="image_muscle">
+          <img src="images/obliquus_externus_abdominis.png">
+          <div class="under"><span class="under_name">obliquus internus abdominis</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lateral half of inguinal ligament, iliac crest, thoracolumbar fascia</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: cartilage of bottom three or fouur ribs, abdominal aponeurosis to linea alba</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: compresses abdominal contents, laterally flexes and rotates vertebral column</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: eight to twelfth intercostal, iliohypogastric, ilioinguinal nerves</span>
+        </div>
+      </div>
+
+      <div class="item5 all">
+        <div class="image_muscle">
+          <img src="images/obliquus_externus_abdominis.png">
+          <div class="under"><span class="under_name">obliquus externus abdominis</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lower eight ribs</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: anterior part of iliac crest.. abdominal aponeourosis to linea alba</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: compresses abdominal contents, laterlly flexes and rotates vertebral column</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: eight to twelfth intercostal, iliohypogastric, ilioinguinal nerves</span>
+        </div>
+      </div>
+
+      <div class="item6 all">
+        <div class="image_muscle">
+          <img src="images/latissimus_dorsi.png">
+          <div class="under"><span class="under_name">latissimus dorsi</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spinous processes of the lower six thoracic vertebrae, lumbar vertebrae, sacral vertebrae, supraspinal ligament, and posterior part of the iliac crest through the lumbar (thoracplumbar) fascia, lower three or four ribs, inferior angle of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: bottom of intertubercular (bicipital groove</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends, adducts, and medially rotates the arm, draws the shoulder downward and backward, keeps inferior angle of scapula against the chest wall, accessory muscle of respiration</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: thoracodorsal nerve(c6-c8)</span>
+        </div>
+      </div>
+
+      <div class="item7 all">
+        <div class="image_muscle">
+          <img src="images/teres_major.png">
+          <div class="under"><span class="under_name">teres major</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lower third of the posterior surface of the lateral border of the scapulla, near the inferior angle</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial lip of the intertubercular (bicipital groove of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: medially rotates arm, adducts arm, extends arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: lower subscapular nerve (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item8 all">
+        <div class="image_muscle">
+          <img src="images/teres_minor.png">
+          <div class="under"><span class="under_name">teres minor</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: upper two-thirds of the dorsal surface of the axillary border of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: the capsule of the shoulder joint, the lower facet of the greater tuberosity of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: laterally rotates arm, weakly adducts arm, draws humerus toward glednoid fossa</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: axillaty nerve (c5)</span>
+        </div>
+      </div>
+
+      <div class="item9 all">
+        <div class="image_muscle">
+          <img src="images/infraspinatus.png">
+          <div class="under"><span class="under_name">infraspinatus</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: infraspinous fossa of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: middle facet of the greater tuberosity of the humerus, capsule of the shoulder joint</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: draws humerus toward glenoid fossa, thus resisting posterior dislocation of arm, as in crawling; laterall rotates; abducts arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: suprascapular nerve (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item10 all">
+        <div class="image_muscle">
+          <img src="images/deltoid.png">
+          <div class="under"><span class="under_name">deltoid</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: anterior position-anterior border and superior surface of the lateral third of the clavicle; middle portion-lateral border of the acromion process; posterior portion-extends and laterally rotates arm
+          </span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: deltoid tuberosity, on the middle of the lateral surface of the shaft of the humerus </span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: anterior portion-flexes and medially rotates arm; middle portion-abducts arm; pposterior portion-extends and laterally rotates arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: axillary nerve (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item11 all">
+        <div class="image_muscle">
+          <img src="images/trapezius.png">
+          <div class="under"><span class="under_name">trapezius</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae, spinous processes and supraspinous ligaments of seventh cervical and all thoracic vertebrae
+          </span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: upper part-lateral third of clavicle; middle part-actomion and crest of spine of scapula; lower part-medial portion of crest of spine of scapula (tubercle)
+          </span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: upper part elevates scapula, middle part retracts (adducts) scapula, lower part depresses scapula, upper and lower parts together rotate scapula (important in elevating arm)</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: accessory (eleventh cranial), c3,c4</span>
+        </div>
+      </div>
+
+      <div class="item12 all">
+        <div class="image_muscle">
+          <img src="images/splenius_capitis.png">
+          <div class="under"><span class="under_name">splenius capitis</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lower part of ligamentum nuchae, spinous processes of seventh cervical vertabra (c7) and upper thre or four thoracic vertabrae (t1-t4)</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: mastoid process of temporal bone and lateral part of superior nuchal line</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: actingi together, they extend hyperextend head and neck, acting on one side, theu laterally flex, rotate head and neck</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: lateral branches of dorsal primary divisiion of middle and lower cervical nerves</span>
+        </div>
+      </div>
+
+      <div class="item13 all">
+        <div class="image_muscle">
+          <img src="images/splenius_cervicis.png">
+          <div class="under"><span class="under_name">splenius cervicis</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spinous process of third through sixth thoracic vertabrae (t3-t6)</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: transverse processes of uper two or three cervical vertebrae (c1-c3)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: acting together, they extend, hyperextend head and neck, acting on one side, they laterally flex, rotate had and neck</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: lateral branches of dorsal primary divisions of middle and lower cervical nerves</span>
+        </div>
+      </div>
+
+      <div class="item14 all">
+        <div class="image_muscle">
+          <img src="images/levator_scapulae.png">
+          <div class="under"><span class="under_name">levator scapulae</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: posterior tubercles of the transverse processes of the first four cervical vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: vertebral (medial) border of the scapula at and above the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: elevates medial border of scapula, rotates scapula to lower rthe lateral angle, acts with trapezius and rhomboids to pull scapula mediially and upward, bends neck laterally</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve</span>
+        </div>
+      </div>
+
+      <div class="item15 all">
+        <div class="image_muscle">
+          <img src="images/supraspinatus.png">
+          <div class="under"><span class="under_name">supraspinatus</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: supraspinous fossa of scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: upper part of the greater tuberosity of the humerus, capsule of the shoulder joint</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: aids deltoid in avduction of arm; draws humerus toward glenoid fossa, preventing deltoid from forcing huumerus up against acromion; weakly flexes arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: suprascapular nerve(c5)</span>
+        </div>
+      </div>
+
+      <div class="item16 all">
+        <div class="image_muscle">
+          <img src="images/rhomboid_minor.png">
+          <div class="under"><span class="under_name">rhomboid minor</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spines of the seventh cervical and first thoracic vertebrae, lower part of the ligamentum nucahe</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial border of the scapula at the root of the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: retracts and stabilizes scapula, elevates the medial border of the scapula, rotates the scapula to depress the lateral angle (assists in adduction of arm)</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve (c5)</span>
+        </div>
+      </div>
+
+      <div class="item17 all">
+        <div class="image_muscle">
+          <img src="images/serratus_posterior_superior.png">
+          <div class="under"><span class="under_name">serratus posterior superior</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: ligamentum nuchae, spinous processes of seventh cervical and first few thoracic vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: upper borders of the second through fifth tibs lateral to their angles</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: raises  ribs in inspiration</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: t1-t4</span>
+        </div>
+      </div>
+
+      <div class="item18 all">
+        <div class="image_muscle">
+          <img src="images/rhomboid_major.png">
+          <div class="under"><span class="under_name">rhomboid major</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spines of the second to fifth thoracic vertebrae, supraspinous ligament</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial border of the scapula below the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: retracts and stabilizes scapula, elevates the medial vorder of the scapula causing downward rotation, assists in adduction of arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve (c5)</span>
+        </div>
+      </div>
+
+      <div class="item19 all">
+        <div class="image_muscle">
+          <img src="images/serratus_anterior.png">
+          <div class="under"><span class="under_name">serratus anterior</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: outer surfaces and superior borders of first eight or nine ribs, and fascia covering first intercostal space</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: anterior surface (costal surface of the medial border of the scapula)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: rotates scapula for avduction and flexion of arm, protracts scapula</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: long thoracic nerve (c5-c7)</span>
+        </div>
+      </div>
+
+      <div class="item20 all">
+        <div class="image_muscle">
+          <img src="images/serratus_posterior_inferior.png">
+          <div class="under"><span class="under_name">serratus posterior inferior</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spinous processes of the lower two thoracic and the upper two or three lumbar vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: lower borders of bootom fourrr ribs</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: pulls ribs down, resisting pull of diaphragm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: t9-t12</span>
+        </div>
+      </div>
+
+      <div class="item21 all">
+        <div class="image_muscle">
+          <img src="images/gluteus_maximus.png">
+          <div class="under"><span class="under_name">gluteus maximus</span></div>
+        </div>
+
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: outer surface of ilium behin posterior gluteal line, adjacent posterior surface of sacrum and coccyx, sacrotuberous ligament, aponeourosis of erector spinae (sacrospinalis)</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: iliotibial tract of fascia lata, gluteal tuberosity of femur</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: upper part-abducts, laterally rotates thigh; lower part-extends, laterally rotates thigh, extends trunk, assists in adduction of thigh
+          </span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: inferior gluteal nerve (l5,s1,s2)</span>
+        </div>
+      </div>
+    </div><!-- grid-container 3-->
+      <br id="clinical_back2"><br>
+   
+    <footer>
+      <table>
+        <tr class="footer_tr">
+          <td>
+            <span class="credit"><b>Credit:</b> <br>Atlas of Skeletal Muscles Fifth Edition - Robert & Judith Stone<br><a href="https://strengthlevel.com/" target="_blank" >www.strengthlevel.com<img src="../images/new_tab.png" style="width: 13px;"></a></span>
+          </td>
+          <td class="credit">
+            <span class="credit" style="font-family: monospace;">Version: 1.0</span>
+          </td>
+          <td class="credit">
+            erter
+          </td>
+        </tr>
+      </table>
+    </footer>
+</body>
+<div id="backBtn" onclick="location.href='../index_main.html';" title="back"><img src="../images/backbtn.png"></div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script src="js/function.js"></script>
+</html>

@@ -1,0 +1,161 @@
+sartorius:------------------------
+origin:anterior superior iliac spine and area immediatly below it
+insertion: upper part of medial surface of shaft of tibia
+action:flexes, abducts, and laterally otates thight at hip joints, flexes and slightly medially rotates leg at knee joint after flexion
+nerve:femoral nerve (l2,l3)
+relationships:insertions of sartorius, gracilis, and semitendinosus fuse of the medial tibial, these tendones called the pesanserinus (goose foor), give medial support to the knee
+
+semimembranosus:--------------------------
+origin:ischial tuberosity
+insertion:posterior part of medial candyle of tibia
+action:flexes and slightly medially rotates leg at knee joint after flexion, extends thigh at hip joint
+nerve:tibial portion of sciatic nerve (l5,s1,s2)
+
+gracilis:----------------------------
+origin:lower margin of body and inferior ramus of pobis
+insertion:upper part of medial surface of shaft of tibia
+action:adducts thigh at hip joint and flexes leg at knee joint, with leg flexed assists in medial rotation
+nerve: obturator nerve (l3,l4)
+
+semitendinosus:------------------------
+origin:ischial tuberosity
+insertion:medial surface of shaft of tibia
+action:flexes and slightly medially rotates leg at knee joint after flexion, extends thigh at hip joint
+nerve:tibial portion of sciatic nerve (l5, s1, s2)
+
+pectineus:----------------------------
+origin: pectineal line on superior ramus of pubis
+insertion: from lesser trochanter to linea aspera of femur
+action: flexes thigh, assists in adduction when hip is flexed
+nerve: femoral nerve (l2-l4), (sometimes a branch of obturator nerve)
+
+adductor longus:-------------------------
+origin: anterior of body of pubis
+insertion: medial lip of linea aspera
+action: adducts, flexes thigh, assists in medial rotation
+nerve: obturator nerve (l3,l4)
+
+adductor brevis:-------------------------
+origin: outer surface of inferior ramus of pubis
+insertion: from below lesser trochanter to linea aspera and into proximal part of linea aspera
+action: adducts thigh, assists in flexion, medial rotation
+nerve: obturator nerve (l3,l4)
+
+adductor magnus:---------------------------
+origin:inferior ramus of pubis, and ramus and lower part tuberosity of iscium
+insertion:linea aspera, adductor tubercle of femur
+action:adducts, extends thight, lower portion (adductor tubercle insertion) assists in medial rotation
+nerve:obturator nerve (l3,l4), sciatic nerve
+
+
+gluteus maximus:-------------------------
+origin:outer surface of ilium behin posterior gluteal line, adjacent posterior surface of sacrum and coccyx, sacrotuberous ligament, aponeourosis of erector spinae (sacrospinalis)
+insertion:iliotibial tract of fascia lata, gluteal tuberosity of femur
+action:upper part-abducts, laterally rotates thigh; lower part-extends, laterally rotates thigh, extends trunk, assists in adduction of thigh
+nerve:inferior gluteal nerve (l5,s1,s2)
+
+gluteus medius:-----------------------------
+origin:outer surface of ilium inferior to iliac crest
+insertion:lateral surface of greater trochanter
+action:abducts femur at hip joints and rotates thigh medially
+nerve:superior gluteal nerve (l4,l5,s1)
+
+gluteus minimus:----------------------------------
+origin:outer surface of ilium between middle (anterior) and inferior gluteal lines
+insertion: anterior surface of greater trochanter
+action:abducts femur at hip joints and rotates thigh medially 
+nerve:superior gluteal nerve (l4,l5,s1)
+
+biceps femoris:-------------------------
+origin:long head-ischial tuberosity, sacrotuberous ligament; short head-linea aspera, lateral supracondylar ridge, lateral intermuscular septum
+insertion:lateral side of head of fibula and lateral condyle of tibia
+action:flexes leg at knee joint, long head also extends thigh at hip joint
+nerve:long head-tibial part of sciatic nerve (s1-s3); short head-common peroneal part of sciatic nerve (l5,s1,s2)
+
+
+
+
+gastrocnemius:------------------------
+origin: lateral head-lateral condyle and posterior surface of femur
+medial head-popliteal surface of femur above medial condyle
+insertion: posterior surface of the calaneus
+action: plantar flexes foot, flexes leg at knee
+nerve: tibial nerve (s1,s2)
+
+soleus:-------------------------
+origin: posterior surface of the tibia (soleal line), upper rhird of posterior surface of fibula, fibrous arch between tibia and fibula
+insertion: posterior surface of the calcaneus
+action: plantar flexes foot
+nerve: tibial neve (s1,s2)
+
+plantaris:-----------------------
+origin: lateral supracondylar ridge of femur, oblique popliteal ligament
+insertion: posterior surface of the calcaneus
+action:plantar flexes foot, flexes leg
+nerve: tibial nerve (l4,l5,s1)
+
+
+
+
+
+
+
+
+
+psaos major:--------------------------------
+origin: bases of transverse processes of all lumbar vertebrae, bodies of twelfth thoracic and all lumbar vertabrae, intervertebral disks above each lumbar vertebrae
+insertion: lesser trochanter of femur
+action: flexes thigh at hip joint, flexes vertebral column
+nerve: branches from lumbar plexus (l2,l3) and sometimes l1 or l4
+
+iliacus:------------------------------
+origin: upper two-thirds of iliac fossa, ala of sacrum and adjacent ligaments, anterior inferior iliac spine
+insertion: onto tendon of psoas major, which continues into lesser trochanter of femur (together the two muscles form the iliopsaos)
+action: flexes thigh at hip joint
+nerve: femoral nerve (l2,l3)
+
+piriformis:--------------------------------
+origin: internal surfaces surface of sacrum, sacrotuberous ligament
+insertion: upper border of greater trochanter
+action: laterally rotates thigh at hip jointm abducts thigh
+nerve: anterior rami of first and second sacral nerves
+
+obturator internus:---------------------------
+origin: pelvic surface of obturator membrane and surounding bones (ilium, ischium, pubis)
+insertion: commong tendon with superior and inferior gemelii to medial surface of upper border of greater trochanter
+action:laterally rotates thight at hip joint
+nerve: nerve from sacral plexus (l5, s1-s3)
+
+gemellus superior:-----------------------------
+origin: spine of ischium
+insertion: with tendon of obdturator internus into medial surface of upper border of greater trochanter
+action:laterally rotates thight at hip joint
+nerve: branch of nerve to obturator internus from sacral plexus
+
+gemellus inferior:-------------------------------
+origin:upper margin of ischial tuberosity
+insertion: with tendon of obturator internus into medial surface of upper border of greater trochanter
+action: laterally rotates thight at hip joint
+nerve: branch of nerve to quadratus femoris from sacral plexus
+
+obturator externus:-------------------------------
+origin: outer surface of superior and inferior rami of pubis and ramus of ischium surrounding obturator foramen
+insertion: trochanteric fossa of femur
+action: laterally rotates thigh
+nerve: obturator nerve (l3,l4)
+
+quadratus femoris:----------------------------------
+origin: lateral border of ischial tuberosity
+insertion: below interocanteric crest (quandrate line)
+action: laterally rotates thigh at hip joint
+nerve: branch from sacral plexus (l5,s1)
+
+
+
+
+
+
+
+
+
+

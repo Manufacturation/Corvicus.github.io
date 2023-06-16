@@ -1,0 +1,798 @@
+</div>
+    <div class="section_title">Clinical relevance for each muscle connected to the Arm</div>
+    <div class="grid-container3">
+      <div class="item4 all">
+        <div class="image_muscle">
+          <img src="images/coracobrachialis.png">
+          <div class="under"><span class="under_name">Coracobrachialis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: tip (apex) if the ciracoid process of scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: middle third of the medial surface and border of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: weakly adducts arm (flexion unsubstantieted), aids in stabilizing humerus</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: musculocutaneous nerve (c6,c7)</span>
+        </div>
+      </div>
+
+      <div class="item5 all">
+        <div class="image_muscle">
+          <img src="images/deltoid.png">
+          <div class="under"><span class="under_name">Deltoid</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: anterior position-anterior border and superior surface of the lateral third of the clavicle; middle portion-lateral border of the acromion process; posterior portion-extends and laterally rotates arm</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: deltoid tuberosity, on the middle of the lateral surface of the shaft of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: anterior portion-flexes and medially rotates arm; middle portion-abducts arm; pposterior portion-extends and laterally rotates arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: axillary nerve (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item6 all">
+        <div class="image_muscle">
+          <img src="images/infraspinatus.png">
+          <div class="under"><span class="under_name">Infraspinatus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: infraspinous fossa of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: middle facet of the greater tuberosity of the humerus, capsule of the shoulder joint</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: draws humerus toward glenoid fossa, thus resisting posterior dislocation of arm, as in crawling; laterall rotates; abducts arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: suprascapular nerve (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item7 all">
+        <div class="image_muscle">
+          <img src="images/latissimus_dorsi.png">
+          <div class="under"><span class="under_name">Latissimus Dorsi</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spinous processes of the lower six thoracic vertebrae, lumbar vertebrae, sacral vertebrae, supraspinal ligament, and posterior part of the iliac crest through the lumbar (thoracplumbar) fascia, lower three or four ribs, inferior angle of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: bottom of intertubercular (bicipital groove</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends, adducts, and medially rotates the arm, draws the shoulder downward and backward, keeps inferior angle of scapula against the chest wall, accessory muscle of respiration</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: thoracodorsal nerve(c6-c8)</span>
+        </div>
+      </div>
+
+      <div class="item8 all">
+        <div class="image_muscle">
+          <img src="images/levator_scapulae.png">
+          <div class="under"><span class="under_name">Levator Scapulae</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: posterior tubercles of the transverse processes of the first four cervical vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: vertebral (medial) border of the scapula at and above the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: elevates medial border of scapula, rotates scapula to lower rthe lateral angle, acts with trapezius and rhomboids to pull scapula mediially and upward, bends neck laterally</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve</span>
+        </div>
+      </div>
+
+      <div class="item9 all">
+        <div class="image_muscle">
+          <img src="images/pectoralis_major.png">
+          <div class="under"><span class="under_name">Pectoralis major</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: clavicular part-medial half of the clavicle; sternocostal part-sternum, upper six costal cartilages, aponeurosis of external olique</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: lateral lip of intertubercuular (bicipital) groove of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: both parts adduct, medially rotate arm; clavicular part flexes arm from full extension; sternocostal part extends the flexed arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: medial and lateral pectoral nerves (c5-c8, t1)</span>
+        </div>
+      </div>
+
+      <div class="item10 all">
+        <div class="image_muscle">
+          <img src="images/pectoralis_minor.png">
+          <div class="under"><span class="under_name">Pectoralis minor</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: external surfaces if the third, fourth and fifth ribs</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: coracoid process of the scapula</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: draws scapula forward and downard, raises ribs in forced inspiration</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: medial pectoral nerve (c8,t1)</span>
+        </div>
+      </div>
+
+      <div class="item11 all">
+        <div class="image_muscle">
+          <img src="images/rhomboid_major.png">
+          <div class="under"><span class="under_name">Rhomboid major</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spines of the second to fifth thoracic vertebrae, supraspinous ligament</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial border of the scapula below the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: retracts and stabilizes scapula, elevates the medial vorder of the scapula causing downward rotation, assists in adduction of arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve (c5)</span>
+        </div>
+      </div>
+
+      <div class="item12 all">
+        <div class="image_muscle">
+          <img src="images/rhomboid_minor.png">
+          <div class="under"><span class="under_name">Rhomboid minor</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: spines of the seventh cervical and first thoracic vertebrae, lower part of the ligamentum nucahe</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial border of the scapula at the root of the spine</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: retracts and stabilizes scapula, elevates the medial border of the scapula, rotates the scapula to depress the lateral angle (assists in adduction of arm)</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: dorsal scapular nerve (c5)</span>
+        </div>
+      </div>
+
+      <div class="item13 all">
+        <div class="image_muscle">
+          <img src="images/subclavius.png">
+          <div class="under"><span class="under_name">Subclavius</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: junction of the first rib with it's costal cartilage</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: groove on the inferior (lower) suurface of the clavice</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: depresses clavicle, draws shoulder forward and downward, streadis clavicle duringg movements of shoulder girdle</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: c5,c6</span>
+        </div>
+      </div>
+
+      <div class="item14 all">
+        <div class="image_muscle">
+          <img src="images/subscapularis.png">
+          <div class="under"><span class="under_name">Subscapularis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: subscapular fossa on the anterior surface of scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: lesset tuberosity (tubercle) of the humerus, ventral part of the capsule of the shoulder joint</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: medially rotates arm, stabilizes glednohumeral joint</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: upper and lower subscapular nerves (c5,c6)</span>
+        </div>
+      </div>
+
+      <div class="item15 all">
+        <div class="image_muscle">
+          <img src="images/supraspinatus.png">
+          <div class="under"><span class="under_name">Supraspinatus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: supraspinous fossa of scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: upper part of the greater tuberosity of the humerus, capsule of the shoulder joint</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: aids deltoid in avduction of arm; draws humerus toward glenoid fossa, preventing deltoid from forcing huumerus up against acromion; weakly flexes arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: suprascapular nerve(c5)</span>
+        </div>
+      </div>
+      
+      <div class="item16 all">
+        <div class="image_muscle">
+          <img src="images/teres_major.png">
+          <div class="under"><span class="under_name">Teres major</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lower third of the posterior surface of the lateral border of the scapulla, near the inferior angle</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: medial lip of the intertubercular (bicipital groove of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: medially rotates arm, adducts arm, extends arm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: lower subscapular nerve (c5,c6)</span>
+        </div>
+      </div>
+      
+      <div class="item17 all">
+        <div class="image_muscle">
+          <img src="images/teres_minor.png">
+          <div class="under"><span class="under_name">Teres minor</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: upper two-thirds of the dorsal surface of the axillary border of the scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: the capsule of the shoulder joint, the lower facet of the greater tuberosity of the humerus</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: laterally rotates arm, weakly adducts arm, draws humerus toward glednoid fossa</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: axillaty nerve (c5)</span>
+        </div>
+      </div>
+      
+      <div class="item18 all">
+        <div class="image_muscle">
+          <img src="images/trapezius.png">
+          <div class="under"><span class="under_name">Trapezius</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae, spinous processes and supraspinous ligaments of seventh cervical and all thoracic vertebrae</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: upper part-lateral third of clavicle; middle part-actomion and crest of spine of scapula; lower part-medial portion of crest of spine of scapula (tubercle)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: upper part elevates scapula, middle part retracts (adducts) scapula, lower part depresses scapula, upper and lower parts together rotate scapula (important in elevating arm)</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: accessory (eleventh cranial), c3,c4</span>
+        </div>
+      </div>
+    </div>
+      <br><br>
+    <div class="section_title">Muscle connected to the Wrist and Forearm</div>
+    <div class="grid-container3">
+      <div class="item19 all">
+        <div class="image_muscle">
+          <img src="images/abductor_pollicis_longus.png">
+          <div class="under"><span class="under_name">Abductor pollicis longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: posterior (dorsal) surface of shaft of radius, ulna, interosseous membrane</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal surface of base of first metacarpal bone</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: abducts, laterally rotates, and extends thumb; abducts wrist</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c6,c7)</span>
+        </div>
+      </div>
+      
+      <div class="item20 all">
+        <div class="image_muscle">
+          <img src="images/anconeus.png">
+          <div class="under"><span class="under_name">Anconeus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: posterior part of lateral epicondyle of the humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: lateral surface of the olecranon process and posterior surface of ulna</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends forearm (assists triceps)</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c7-c8)</span>
+        </div>
+      </div>
+      
+      <div class="item21 all">
+        <div class="image_muscle">
+          <img src="images/biceps_branchii.png">
+          <div class="under"><span class="under_name">Biceps branchii</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: long head-supraglenoid tubercle of scapula; short head-coracoid process of scapula</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: tuberosity of radius, bicipital aponeurosis into deep fascia on medial part of forearm</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: supinates forearm, flexes forearm, weakly flexes arm at shoulder</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: musculocutaneous nerve (c5-c6)</span>
+        </div>
+      </div>
+      
+      <div class="item22 all">
+        <div class="image_muscle">
+          <img src="images/brachialis.png">
+          <div class="under"><span class="under_name">Brachialis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: anterior of lower hlaf of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: corronoid process of ulna, tuberosity of ulna</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes forearm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: musculocutaneous nerve(c5,c6)</span>
+        </div>
+      </div>
+      
+      <div class="item23 all">
+        <div class="image_muscle">
+          <img src="images/brachioradialis.png">
+          <div class="under"><span class="under_name">Brachioradialis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: upper two-thirds of lateral upracondylar ridge of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: base styloid process and lateral surface od radius</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes forearm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radian nerve (c5,c6)</span>
+        </div>
+      </div>
+      
+      <div class="item24 all">
+        <div class="image_muscle">
+          <img src="images/extensor_carpi_radialis_brevis.png">
+          <div class="under"><span class="under_name">Extensor carpi radialis brevis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lateral epicondyle of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal surface of third metacarpal bone</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends hand, synergist in abduction of hand with flexor carpi radialis</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c6,c7)</span>
+        </div>
+      </div>
+      
+      <div class="item25 all">
+        <div class="image_muscle">
+          <img src="images/Extensor_carpi_radialis_longus.png">
+          <div class="under"><span class="under_name">Extensor carpi radialis longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lower third of lateral supracondylar ridge of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal surface of the base of the second metacarpal bone</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends hand, synergist in abduction of hand with flexor carpi radialis</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c6,c7)</span>
+        </div>
+      </div>
+      
+      <div class="item26 all">
+        <div class="image_muscle">
+          <img src="images/extensor_carpi_ulnaris.png">
+          <div class="under"><span class="under_name">Extensor carpi ulnaris</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: common tendon attached to lateral epicondyle of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal surface of base of fifth meracarpal bone</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends hand, synergist in adduction of hand with flexor carpi ulnaris</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve (c6-c8)</span>
+        </div>
+      </div>
+      
+      <div class="item27 all">
+        <div class="image_muscle">
+          <img src="images/extensor_digiti_minimi.png">
+          <div class="under"><span class="under_name">Extensor digiti minimi</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: common tendon attached to lateral epicondyle of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal surface of base of first phalanx of fifth finger</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends fifth finger</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c6-c8)</span>
+        </div>
+      </div>
+      
+      <div class="item28 all">
+        <div class="image_muscle">
+          <img src="images/extensor_digitorum_communis.png">
+          <div class="under"><span class="under_name">Extensor digitorum communis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: common tendon attached to lateral epicondyle of humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: lateral and dorsal surfaces of all the phalanges of the four fingers</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends the fingers and wrist</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: deep branch of radial nerve(c6-c8)</span>
+        </div>
+      </div>
+      
+      <div class="item29 all">
+        <div class="image_muscle">
+          <img src="images/extensor_pollicis_brevis.png">
+          <div class="under"><span class="under_name">Extensor pollicis brevis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: dorsal surface of radius, adjacent part of interosseous membrane</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: base of proximal phalanx of thumb</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends thumb, abducts hand</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve(c6,c7)</span>
+        </div>
+      </div>
+      
+      <div class="item30 all">
+        <div class="image_muscle">
+          <img src="images/extensor_pollicis_longus.png">
+          <div class="under"><span class="under_name">Extensor pollicis longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: middle third of dorsal surface of ulna, interosseous membrane</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: base of distal phalanx of thumb</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends thumb</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve: (c6-c8)</span>
+        </div>
+      </div>
+      
+      <div class="item31 all">
+        <div class="image_muscle">
+          <img src="images/flexor_carpi_radialis.png">
+          <div class="under"><span class="under_name">Flexor carpi radialis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: medial epicondyle of the humerus through the common tendon</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: front of the bases of the second and third metacarpal bones</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes hand, synergist in abduction with extensor carpi radialis longus and brevis</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: median nerve(c6,c7)</span>
+        </div>
+      </div>
+      
+      <div class="item32 all">
+        <div class="image_muscle">
+          <img src="images/flexor_carpi_ulnaris.png">
+          <div class="under"><span class="under_name">Flexor carpi ulnaris</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: humeral head-medial epicondyle of the humerus through the common tendon; ulnar head-medial margin of olecranon process of ulna, dorsal border of shaft of the ulna</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: pisiform bone, hood of the hamate, and base of the fifth metacarpal bone</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes hand, synergist in adduction of hand with extensor carpi ulnaris</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: ulnar nerve(c8,t1)</span>
+        </div>
+      </div>
+      
+      <div class="item33 all">
+        <div class="image_muscle">
+          <img src="images/flexor_digitorum_profoundus.png">
+          <div class="under"><span class="under_name">Flexor digitorum profoundus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: upper three-fourths of anteriror and medial surfaces of shaft of ulna and medial side of the coronoid process, interosseous membrane</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: front of base of distal phalanges of fingers </span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes distal phalanges</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: ulnar nerve supplies the medial half of the muscle(going to the little and ring fingers)(c8,t1)</span>
+        </div>
+      </div>
+      
+      <div class="item34 all">
+        <div class="image_muscle">
+          <img src="images/flexor_digitorum_superficialis.png">
+          <div class="under"><span class="under_name">Flexor digitorum superficialis</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: humeroulnar head-medial epicondyle of the humerus through common tendon, medial margin of the coronoid process of ulna; radial head- anterior surface of shaft od radius</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: four tendons divide into two slips each., slips insert into the sides (margins of the anterior surfaces) of the middle phalanges of four fingers</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes the middle phalanges of the fingers</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: median nerve(c7,c8,t1)</span>
+        </div>
+      </div>
+     
+      <div class="item35 all">
+        <div class="image_muscle">
+          <img src="images/flexor_pollicis_longus.png">
+          <div class="under"><span class="under_name">Flexor pollicis longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: middle of anterior surface of shaft of radius, interosseous membrane, medial epicondyle of humerus, and often coronoid process of ulna</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: palmar aspect of base of the distal phalanx of thumb</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes the thumb</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: anterior interosseous branch of median nerve (c8,t1)</span>
+        </div>
+      </div>
+     
+      <div class="item36 all">
+        <div class="image_muscle">
+          <img src="images/palmaris_longus.png">
+          <div class="under"><span class="under_name">Palmaris longus</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: mediial epicondyle of the humerus through the common tendon</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: front (central part) of the flexor retinaculum and apex of the palmer aponeursis</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: flexes the hand</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: median nerve(c6,c7)</span>
+        </div>
+      </div>
+     
+      <div class="item37 all">
+        <div class="image_muscle">
+          <img src="images/pronator_teres.png">
+          <div class="under"><span class="under_name">Pronator teres</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: humeral head-medial supracondylar ridge and medial epicondyle of the humeruus; ulnar head-medial border of the coronoid process of the ulna</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: middle of lateral surface of the radius (pronator tuberosity)</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: pronates and flexes forearm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: median nerve(c6,c7)</span>
+        </div>
+      </div>
+     
+      <div class="item38 all">
+        <div class="image_muscle">
+          <img src="images/supinator.png">
+          <div class="under"><span class="under_name">Supinator</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: lateral epicondyle of humerus, lateral ligament (radial collateral) of elbow, annular ligament of superior radioulnar joint, supinator crest of ulna</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: dorsal and lateral surfaces of upper third of radius</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: supinates forearm</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve (c6)</span>
+        </div>
+      </div>
+     
+      <div class="item39 all">
+        <div class="image_muscle">
+          <img src="images/triceps_brachii.png">
+          <div class="under"><span class="under_name">Triceps brachii</span></div>
+        </div>
+        <div class="origin">
+          <span class="intelegent_text"><i><b>Origin</b></i>: long head-inferaglenoid tubercle of the scapula; lateral head-upper half of the lower half of the shaft of the humerus</span>
+        </div>
+        <hr>
+        <div class="insertion">
+          <span class="intelegent_text"><i><b>Insertion</b></i>: posterior part of olecranon process of the ulna</span>
+        </div>
+        <hr>
+        <div class="action">
+          <span class="intelegent_text"><i><b>Action</b></i>: extends forearm, long ghead aids in adduction of arm is abducted</span>
+        </div>
+        <hr>
+        <div class="nerve">
+          <span class="intelegent_text"><i><b>Nerve</b></i>: radial nerve (c7,c8)</span>
+        </div>
+      </div>
+    </div><!-- grid container3-->

@@ -1,0 +1,141 @@
+CHEST:
+1.barbell bench press (incline/flat/decline)
+2.dumbbell bench press (incline/flat/decline)
+3.cable crossover
+4.dumbbell flyes (inicline/flat/decline)
+5.prone flye
+6.pullover
+7.pushups (close grip/sholder width grip/wide grip/feet elevated/weighted)
+8.dips
+9.band resisted flye
+10.pec deck
+11.chest press machine
+12.landmine standing reach
+13.Kettlebell Swings
+
+BICEPS
+1,dumbbell curl 
+2,sitting dumbbell curl
+3,barbell curl
+4,sitting barbell curl
+5,Facing-Away Cable Curl
+6,Reverse-Grip Bent-Over Row
+7,cable curl
+8,EZ-Bar curl
+9,Concentration Curl
+10,Barbell Bent-Over Row
+11,chin-ups
+12,reverse curl straight bar
+13,Twisting Dumbbell Curl
+14,prone dumbell spider curl
+15,inverted row
+16,Cable Rope Hammer Curl
+17,Seated Cable Row
+
+FOREARM AND WRIST:
+1,Dumbbell Wrist Flexion
+2,Dumbbell Wrist Extension
+3,Dumbbell Reverse Curl
+4,farmer's walk
+5,Inverted Row
+6,Hammer Curl
+7,Triceps Rope Pushdown
+8,Dead hangs
+9,Forearm squeeze
+10,Fingertip pushups
+11,Plank with shoulder taps
+
+TRICEPS:
+1,bench dips
+2,dumbbell triceps extension
+3,push ups
+4,reverse grip triceps pushdown
+5,skull crusher
+6,triceps rope pushdown
+
+SHOULDERS:
+1,overhead press
+2,dumbbel front raise
+3,dumbbell lateral raise
+4,reverse flye
+5,seated military press
+6,standing dumbbell shoulder press
+7,push ups
+8,reverse cable crossover
+9,arnold press
+10,Upright Row
+11,Kettlebell Swings
+
+GRIP:
+1,deadlift
+2,farmer's walk
+3,towel hang
+4,rope pulling
+5,pinch plate carry
+6,dead hang
+7,pull-up
+8,squizzing balls
+
+
+ABDOMINAL OBLIQUE
+1,plank
+2,sit ups
+3,push ups
+4,side plank
+5,lunges with barbell/dumbbel
+6,sit-ups to twist
+7,bicycle
+8,russian twists
+9,wood choppers
+10,side bends
+
+
+HIPS AND THIGHS
+1,squat
+2,biking
+3,mountain climbing
+4,side lunges
+5,wall sits
+6,step-ups with weights
+7,leg press
+8,leg extension
+9,jump squats
+
+
+CALVES:
+1,jump rope
+2,Farmer’s Walk On Toes
+3,elevated calf raises
+4,farmer's walk
+5,dumbbell step-up
+6,dumbbell jump squat
+
+BACK:
+1,deadlift
+2,resistance band pull-apart
+3,lat pulldown
+4,wide dumbbell bent-over row
+5,single arm dumbbell row
+6,reverse fly
+7,chin-ups
+8,seated rows
+9,chest supported row
+10,dumbbell pullover
+11,farmer's walk
+12,t-bar rows
+
+
+CARDIO:
+1,running
+2,cycling
+3,climbing
+4,jump rope
+
+
+
+
+
+
+
+
+
